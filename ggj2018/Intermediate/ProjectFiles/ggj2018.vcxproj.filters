@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\ggj2018.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{DFAF75FB-4864-4AB3-9135-E4E6EB1C80BA}</UniqueIdentifier>
+			<UniqueIdentifier>{A7C762BB-C985-4FBE-8E12-6967AA576B0B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\ggj2018.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{D8336B6B-AE93-4C24-9887-3B7E076B8938}</UniqueIdentifier>
+			<UniqueIdentifier>{E01A09A0-398E-4DD6-A567-B28B0A418067}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,7 +28,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\ggj2018">
-			<UniqueIdentifier>{F0B1F072-EE4D-4C3E-940D-915FD35E320E}</UniqueIdentifier>
+			<UniqueIdentifier>{B1B1CBFB-A866-41BC-B556-ECCD080CD50A}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\ggj2018\AICharacter.cpp">
 			<Filter>Source\ggj2018</Filter>
@@ -52,7 +52,7 @@
 			<Filter>Source\ggj2018</Filter>
 		</ClInclude >
 		<Filter Include="Source\ggj2018\TP_ThirdPerson">
-			<UniqueIdentifier>{CAA8D59D-A201-48AC-9699-FBDC6BC1C044}</UniqueIdentifier>
+			<UniqueIdentifier>{51D8096A-6BE4-41A0-A222-3E34D9D9CA87}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPerson.h">
 			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
