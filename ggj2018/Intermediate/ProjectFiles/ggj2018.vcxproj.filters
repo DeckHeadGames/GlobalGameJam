@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\ggj2018.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{A7C762BB-C985-4FBE-8E12-6967AA576B0B}</UniqueIdentifier>
+			<UniqueIdentifier>{9CFA865A-1412-47A3-A296-464F29C2FAB6}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\ggj2018.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{E01A09A0-398E-4DD6-A567-B28B0A418067}</UniqueIdentifier>
+			<UniqueIdentifier>{A9DA601F-A721-4AE8-B5CB-BF7362F9E26C}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,7 +28,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\ggj2018">
-			<UniqueIdentifier>{B1B1CBFB-A866-41BC-B556-ECCD080CD50A}</UniqueIdentifier>
+			<UniqueIdentifier>{7B72669D-8C52-427F-970C-DEF49AD0F54C}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\ggj2018\AICharacter.cpp">
 			<Filter>Source\ggj2018</Filter>
@@ -51,23 +51,11 @@
 		<ClInclude Include="..\..\Source\ggj2018\ggj2018GameModeBase.h">
 			<Filter>Source\ggj2018</Filter>
 		</ClInclude >
-		<Filter Include="Source\ggj2018\TP_ThirdPerson">
-			<UniqueIdentifier>{51D8096A-6BE4-41A0-A222-3E34D9D9CA87}</UniqueIdentifier>
-		</Filter>
-		<ClInclude Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPerson.h">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
-		</ClInclude >
-		<ClCompile Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
+		<ClCompile Include="..\..\Source\ggj2018\PlayerCharacter.cpp">
+			<Filter>Source\ggj2018</Filter>
 		</ClCompile >
-		<ClInclude Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
-		</ClInclude >
-		<ClCompile Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
-		</ClCompile >
-		<ClInclude Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
+		<ClInclude Include="..\..\Source\ggj2018\PlayerCharacter.h">
+			<Filter>Source\ggj2018</Filter>
 		</ClInclude >
 	</ItemGroup>
 </Project>

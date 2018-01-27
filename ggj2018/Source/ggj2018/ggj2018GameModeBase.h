@@ -13,8 +13,9 @@ UCLASS()
 class GGJ2018_API Aggj2018GameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
-	
-	
+
+public:
+	Aggj2018GameModeBase();
+	virtual void BeginPlay() override;
 	
 };
