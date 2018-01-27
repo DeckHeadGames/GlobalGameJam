@@ -1286,3 +1286,592 @@ LogInit: Object subsystem initialized
 [2018.01.27-06.49.36:035][792]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-22.49.36
 [2018.01.27-06.49.36:036][792]LogWorld: Bringing up level for play took: 0.002133
 [2018.01.27-06.49.36:038][792]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.715
+[2018.01.27-06.53.41:815][370]LogSavePackage: Save=48.96ms
+[2018.01.27-06.53.41:816][370]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground1D83CEE940331CD4A8162B99BC0A3AB1.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.27-06.53.41:821][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.27-06.53.41:894][370]LogSavePackage: Save=17.12ms
+[2018.01.27-06.53.41:894][370]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground_BuiltData5B66F67E46E19EC46EF85180D4B5DDF2.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset'
+[2018.01.27-06.53.41:896][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset
+[2018.01.27-06.56.01:052][932]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-06.56.01:072][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-06.56.01:072][932]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 2:56:01 PM)
+[2018.01.27-06.56.01:072][932]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-06.56.01:076][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004044s)
+[2018.01.27-06.56.01:077][932]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-06.56.01:078][932]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2018.01.27-06.56.01:078][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.005770s)
+[2018.01.27-06.56.01:114][932]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-06.56.01:170][932]LogInit: FAudioDevice initialized.
+[2018.01.27-06.56.01:206][932]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-06.56.01:212][932]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-22.56.01
+[2018.01.27-06.56.01:214][932]LogWorld: Bringing up level for play took: 0.005279
+[2018.01.27-06.56.01:220][932]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.466
+[2018.01.27-06.58.47:233][644]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.27-06.59.15:054][920]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-06.59.15:889][938]LogSavePackage: Save=23.36ms
+[2018.01.27-06.59.15:889][938]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_ControllerC2691397456CD12BF02687B4E1CA521C.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset'
+[2018.01.27-06.59.15:895][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset
+[2018.01.27-06.59.39:758][778]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.27-07.00.26:899][885]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.00.27:853][907]LogSavePackage: Save=23.85ms
+[2018.01.27-07.00.27:853][907]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_Controller31873B24444C7CBCB1204DA57536B5A8.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset'
+[2018.01.27-07.00.27:857][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset
+[2018.01.27-07.02.58:341][952]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.27-07.07.16:178][999]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AI_Playground/AIPlayground' took 0.026
+[2018.01.27-07.07.16:182][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI_Playground/AI_Character/Zombie_Controller] ([1] browsable assets)...
+[2018.01.27-07.07.16:182][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_Playground/AI_Character/Zombie_Controller]
+[2018.01.27-07.07.16:233][999]LogSavePackage: Save=35.99ms
+[2018.01.27-07.07.16:233][999]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_Controller_Auto5988551E64677F3CD990A1FA27FA2C655.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Autosaves/Game/AI_Playground/AI_Character/Zombie_Controller_Auto5.uasset'
+[2018.01.27-07.07.16:235][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Autosaves/Game/AI_Playground/AI_Character/Zombie_Controller_Auto5.uasset
+[2018.01.27-07.07.16:235][999]LogFileHelpers: Auto-saving content packages took 0.054
+[2018.01.27-07.07.47:151][550]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.07.47:164][550]LogBlueprint: Error: [Compiler Zombie_Controller] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.27-07.07.47:362][550]LogBlueprint: Warning: [Compiler Zombie_Controller] [5701.83] Compile of Zombie_Controller failed. 1 Fatal Issue(s) 0 Warning(s) [in 211 ms] (/Game/AI_Playground/AI_Character/Zombie_Controller.Zombie_Controller)
+[2018.01.27-07.07.47:962][567]LogSavePackage: Save=29.75ms
+[2018.01.27-07.07.47:962][567]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_ControllerED297EEA43D0BA4E823AC3A6EF661E5B.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset'
+[2018.01.27-07.07.47:967][567]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset
+[2018.01.27-07.07.50:637][680]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.07.50:648][680]LogBlueprint: Error: [Compiler Zombie_Controller] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.27-07.07.50:842][680]LogBlueprint: Warning: [Compiler Zombie_Controller] [5705.31] Compile of Zombie_Controller failed. 1 Fatal Issue(s) 0 Warning(s) [in 204 ms] (/Game/AI_Playground/AI_Character/Zombie_Controller.Zombie_Controller)
+[2018.01.27-07.07.51:131][690]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.07.51:143][690]LogBlueprint: Error: [Compiler Zombie_Controller] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.27-07.07.51:339][690]LogBlueprint: Warning: [Compiler Zombie_Controller] [5705.80] Compile of Zombie_Controller failed. 1 Fatal Issue(s) 0 Warning(s) [in 207 ms] (/Game/AI_Playground/AI_Character/Zombie_Controller.Zombie_Controller)
+[2018.01.27-07.07.51:340][690]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.07.51:349][690]LogBlueprint: Error: [Compiler Zombie_Controller] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.27-07.07.51:541][690]LogBlueprint: Warning: [Compiler Zombie_Controller] [5706.01] Compile of Zombie_Controller failed. 1 Fatal Issue(s) 0 Warning(s) [in 201 ms] (/Game/AI_Playground/AI_Character/Zombie_Controller.Zombie_Controller)
+[2018.01.27-07.07.51:542][690]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.07.51:551][690]LogBlueprint: Error: [Compiler Zombie_Controller] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.27-07.07.51:750][690]LogBlueprint: Warning: [Compiler Zombie_Controller] [5706.22] Compile of Zombie_Controller failed. 1 Fatal Issue(s) 0 Warning(s) [in 208 ms] (/Game/AI_Playground/AI_Character/Zombie_Controller.Zombie_Controller)
+[2018.01.27-07.07.51:750][690]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.07.51:761][690]LogBlueprint: Error: [Compiler Zombie_Controller] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.27-07.07.51:955][690]LogBlueprint: Warning: [Compiler Zombie_Controller] [5706.42] Compile of Zombie_Controller failed. 1 Fatal Issue(s) 0 Warning(s) [in 204 ms] (/Game/AI_Playground/AI_Character/Zombie_Controller.Zombie_Controller)
+[2018.01.27-07.07.51:955][690]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.07.51:966][690]LogBlueprint: Error: [Compiler Zombie_Controller] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.27-07.07.52:162][690]LogBlueprint: Warning: [Compiler Zombie_Controller] [5706.63] Compile of Zombie_Controller failed. 1 Fatal Issue(s) 0 Warning(s) [in 206 ms] (/Game/AI_Playground/AI_Character/Zombie_Controller.Zombie_Controller)
+[2018.01.27-07.07.52:162][690]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.07.52:172][690]LogBlueprint: Error: [Compiler Zombie_Controller] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.27-07.07.52:368][690]LogBlueprint: Warning: [Compiler Zombie_Controller] [5706.83] Compile of Zombie_Controller failed. 1 Fatal Issue(s) 0 Warning(s) [in 206 ms] (/Game/AI_Playground/AI_Character/Zombie_Controller.Zombie_Controller)
+[2018.01.27-07.08.33:612][365]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.08.33:625][365]LogBlueprint: Error: [Compiler Zombie_Controller] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.27-07.08.33:827][365]LogBlueprint: Warning: [Compiler Zombie_Controller] [5748.29] Compile of Zombie_Controller failed. 1 Fatal Issue(s) 0 Warning(s) [in 214 ms] (/Game/AI_Playground/AI_Character/Zombie_Controller.Zombie_Controller)
+[2018.01.27-07.08.58:284][269]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.09.00:529][351]LogSavePackage: Save=31.72ms
+[2018.01.27-07.09.00:529][351]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_Controller94FC47D24376635FBE58628F3F796E4D.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset'
+[2018.01.27-07.09.00:533][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset
+[2018.01.27-07.09.35:353][987]LogEditorTransaction: Undo Move Node
+[2018.01.27-07.09.53:557][578]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.09.54:602][607]LogSavePackage: Save=33.48ms
+[2018.01.27-07.09.54:602][607]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_ControllerE2AE51254A775DD9A46ACDBD5B78251B.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset'
+[2018.01.27-07.09.54:605][607]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset
+[2018.01.27-07.10.59:312][516]BlueprintLog: New page: Compile Zombie_Controller
+[2018.01.27-07.11.00:127][533]LogSavePackage: Save=37.26ms
+[2018.01.27-07.11.00:127][533]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_Controller8C4BE8764E601FC71F292390611EDD6E.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset'
+[2018.01.27-07.11.00:131][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_Controller.uasset
+[2018.01.27-07.13.17:189][599]LogSavePackage: Save=17.53ms
+[2018.01.27-07.13.17:189][599]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_BT757A7F8149FBB487859CE1AE6A2F5BBE.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_BT.uasset'
+[2018.01.27-07.13.17:192][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_BT.uasset
+[2018.01.27-07.13.52:995][216]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI_Playground/AI_Character/Dummy.
+[2018.01.27-07.14.14:473][ 24]BlueprintLog: New page: Compile Dummy
+[2018.01.27-07.14.15:677][ 51]LogSavePackage: Save=26.21ms
+[2018.01.27-07.14.15:677][ 51]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/DummyD5B542B9440057352E69EEB581723DB8.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Dummy.uasset'
+[2018.01.27-07.14.15:681][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Dummy.uasset
+[2018.01.27-07.14.15:694][ 52]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI_Playground/AI_Character/Dummy.
+[2018.01.27-07.17.15:053][552]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.27-07.17.26:837][ 37]BlueprintLog: New page: Compile Dummy
+[2018.01.27-07.17.27:992][ 61]LogSavePackage: Save=29.39ms
+[2018.01.27-07.17.27:992][ 61]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/DummyEB0FD35E4418A6E412580E8ACC038A14.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Dummy.uasset'
+[2018.01.27-07.17.27:996][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Dummy.uasset
+[2018.01.27-07.17.29:841][139]BlueprintLog: New page: Compile Dummy
+[2018.01.27-07.17.30:679][154]LogSavePackage: Save=27.64ms
+[2018.01.27-07.17.30:679][154]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/DummyF3EB30F14CBF47E949E72D87862A71C8.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Dummy.uasset'
+[2018.01.27-07.17.30:680][154]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Dummy.uasset
+[2018.01.27-07.17.46:131][872]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.17.46:175][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.17.46:176][872]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 3:17:46 PM)
+[2018.01.27-07.17.46:176][872]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-07.17.46:181][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005497s)
+[2018.01.27-07.17.46:182][872]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-07.17.46:182][872]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2018.01.27-07.17.46:182][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.006648s)
+[2018.01.27-07.17.46:220][872]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-07.17.46:270][872]LogInit: FAudioDevice initialized.
+[2018.01.27-07.17.46:301][872]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.17.46:304][872]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-23.17.46
+[2018.01.27-07.17.46:306][872]LogWorld: Bringing up level for play took: 0.003872
+[2018.01.27-07.17.46:308][872]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.445
+[2018.01.27-07.18.09:625][171]LogSavePackage: Save=48.10ms
+[2018.01.27-07.18.09:625][171]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground8CAD39044754B3BD4FE9BEBCD81955A7.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.27-07.18.09:629][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.27-07.18.09:699][171]LogSavePackage: Save=25.61ms
+[2018.01.27-07.18.09:699][171]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground_BuiltData34BEB3E541E40C76A562F68D98D33EA7.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset'
+[2018.01.27-07.18.09:700][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset
+[2018.01.27-07.18.09:885][176]LogSavePackage: Save=50.14ms
+[2018.01.27-07.18.09:885][176]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlaygroundDF3728DB45586846CEAA27891BE49E2B.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.27-07.18.09:887][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.27-07.18.09:939][176]LogSavePackage: Save=14.98ms
+[2018.01.27-07.18.09:939][176]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground_BuiltData8F0B6DA14BAC35BD7FC2D0B2A38B828E.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset'
+[2018.01.27-07.18.09:941][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset
+[2018.01.27-07.18.11:390][257]LogSavePackage: Save=49.46ms
+[2018.01.27-07.18.11:390][257]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlaygroundC28449CF4EB72A2A3B230381522325B6.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.27-07.18.11:393][257]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.27-07.18.11:446][257]LogSavePackage: Save=14.96ms
+[2018.01.27-07.18.11:446][257]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground_BuiltData9A726E2744D3A7BA894042991E45F356.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset'
+[2018.01.27-07.18.11:448][257]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset
+[2018.01.27-07.19.02:329][566]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.19.02:348][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.19.02:348][566]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 3:19:02 PM)
+[2018.01.27-07.19.02:348][566]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-07.19.02:353][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004135s)
+[2018.01.27-07.19.02:354][566]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-07.19.02:354][566]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2018.01.27-07.19.02:354][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.005851s)
+[2018.01.27-07.19.02:391][566]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-07.19.02:441][566]LogInit: FAudioDevice initialized.
+[2018.01.27-07.19.02:474][566]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.19.02:479][566]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-23.19.02
+[2018.01.27-07.19.02:480][566]LogWorld: Bringing up level for play took: 0.004049
+[2018.01.27-07.19.02:483][566]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.27
+[2018.01.27-07.19.22:584][763]LogEditorViewport: Clicking on Actor (LMB): Dummy_C (Dummy)
+[2018.01.27-07.19.27:730][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.19.27:748][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.19.27:749][ 26]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 3:19:27 PM)
+[2018.01.27-07.19.27:749][ 26]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-07.19.27:753][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003946s)
+[2018.01.27-07.19.27:753][ 26]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-07.19.27:753][ 26]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.01.27-07.19.27:754][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.005182s)
+[2018.01.27-07.19.27:790][ 26]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-07.19.27:841][ 26]LogInit: FAudioDevice initialized.
+[2018.01.27-07.19.27:871][ 26]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.19.27:874][ 26]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-23.19.27
+[2018.01.27-07.19.27:874][ 26]LogWorld: Bringing up level for play took: 0.002354
+[2018.01.27-07.19.27:876][ 26]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 1.123
+[2018.01.27-07.19.42:563][900]LogEditorViewport: Clicking on Actor (LMB): Dummy_C (Dummy)
+[2018.01.27-07.19.52:939][387]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.19.52:957][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.19.52:957][387]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 3:19:52 PM)
+[2018.01.27-07.19.52:957][387]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-07.19.52:962][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005237s)
+[2018.01.27-07.19.52:963][387]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-07.19.52:963][387]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2018.01.27-07.19.52:963][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.006382s)
+[2018.01.27-07.19.53:002][387]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-07.19.53:054][387]LogInit: FAudioDevice initialized.
+[2018.01.27-07.19.53:086][387]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.19.53:089][387]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-23.19.53
+[2018.01.27-07.19.53:089][387]LogWorld: Bringing up level for play took: 0.002521
+[2018.01.27-07.19.53:091][387]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.338
+[2018.01.27-07.20.59:172][499]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.27-07.21.01:202][555]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.27-07.21.01:448][555]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI_Playground/AI_Character/BTTask_BlueprintBase_New.
+[2018.01.27-07.21.03:286][632]BlueprintLog: New page: Compile BTTask_BlueprintBase_New
+[2018.01.27-07.21.03:967][652]LogSavePackage: Save=8.51ms
+[2018.01.27-07.21.03:967][652]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/BTTask_BlueprintBase_NewC5B1B85343026885AEA6089CC4A4F545.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/BTTask_BlueprintBase_New.uasset'
+[2018.01.27-07.21.03:971][652]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/BTTask_BlueprintBase_New.uasset
+[2018.01.27-07.21.04:049][656]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI_Playground/AI_Character/BTTask_BlueprintBase_New.
+[2018.01.27-07.21.06:826][758]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.27-07.21.53:302][887]LogMetaData: Removing '/Game/AI_Playground/AI_Character/Use_Object_Task.SKEL_Use_Object_Task_C' ref from Metadata '/Game/AI_Playground/AI_Character/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.01.27-07.21.53:302][887]LogMetaData: Removing '/Game/AI_Playground/AI_Character/Use_Object_Task.Use_Object_Task_C' ref from Metadata '/Game/AI_Playground/AI_Character/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.01.27-07.21.53:347][887]LogSavePackage: Save=8.19ms
+[2018.01.27-07.21.53:347][887]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Use_Object_Task631CE5C54E9CAFCA5E29CFAAC2BE10F9.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset'
+[2018.01.27-07.21.53:350][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset
+[2018.01.27-07.21.53:614][893]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI_Playground/AI_Character/Use_Object_Task.
+[2018.01.27-07.22.33:467][401]BlueprintLog: New page: Compile Use_Object_Task
+[2018.01.27-07.22.34:093][419]LogSavePackage: Save=7.22ms
+[2018.01.27-07.22.34:093][419]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Use_Object_Task70B674FE47CE694EF570D58F0C992CAB.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset'
+[2018.01.27-07.22.34:096][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset
+[2018.01.27-07.23.03:809][723]BlueprintLog: New page: Compile Use_Object_Task
+[2018.01.27-07.23.04:570][746]LogSavePackage: Save=9.94ms
+[2018.01.27-07.23.04:570][746]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Use_Object_TaskD8A593574CA483E930690DA00619805A.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset'
+[2018.01.27-07.23.04:573][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset
+[2018.01.27-07.24.11:256][618]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.27-07.24.38:023][652]BlueprintLog: New page: Compile Use_Object_Task
+[2018.01.27-07.24.38:651][670]LogSavePackage: Save=17.28ms
+[2018.01.27-07.24.38:651][670]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Use_Object_Task163D508C4710E604E7FE0996B1E47A28.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset'
+[2018.01.27-07.24.38:655][670]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset
+[2018.01.27-07.25.54:930][232]BlueprintLog: New page: Compile Use_Object_Task
+[2018.01.27-07.25.55:650][253]LogSavePackage: Save=21.38ms
+[2018.01.27-07.25.55:650][253]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Use_Object_TaskD10FB197459E12660D9349B9C5CCF045.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset'
+[2018.01.27-07.25.55:655][253]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset
+[2018.01.27-07.26.23:606][140]LogClass: Warning: Type mismatch in Value of SKEL_Use_Object_Task_C - Previous (StructProperty) Current(IntProperty) for package:  FObjectReader
+[2018.01.27-07.27.29:297][428]BlueprintLog: New page: Compile Use_Object_Task
+[2018.01.27-07.27.30:120][453]LogSavePackage: Save=27.06ms
+[2018.01.27-07.27.30:120][453]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Use_Object_Task9616C9154E2861B4DB991E9372C1FAA1.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset'
+[2018.01.27-07.27.30:125][453]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset
+[2018.01.27-07.28.43:005][544]BlueprintLog: New page: Compile Use_Object_Task
+[2018.01.27-07.28.43:796][567]LogSavePackage: Save=24.46ms
+[2018.01.27-07.28.43:796][567]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Use_Object_TaskB1B3C5BA4882BCEF13F9F68623201F6C.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset'
+[2018.01.27-07.28.43:798][567]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Use_Object_Task.uasset
+[2018.01.27-07.29.21:857][110]Cmd: TRANSACTION UNDO
+[2018.01.27-07.29.21:857][110]LogEditorTransaction: Undo Drag&Drop Node
+[2018.01.27-07.29.42:055][866]LogSavePackage: Save=14.80ms
+[2018.01.27-07.29.42:055][866]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_BT14BB0FFC4A7DCDFB6D33DE975E5BE401.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_BT.uasset'
+[2018.01.27-07.29.42:059][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_BT.uasset
+[2018.01.27-07.29.45:485][ 19]LogSavePackage: Save=16.71ms
+[2018.01.27-07.29.45:485][ 19]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Zombie_BTA530AADD4B1E5D50E84B149EA9BEF971.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_BT.uasset'
+[2018.01.27-07.29.45:487][ 19]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AI_Character/Zombie_BT.uasset
+[2018.01.27-07.29.52:180][363]LogSavePackage: Save=49.25ms
+[2018.01.27-07.29.52:180][363]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlaygroundACFC6C154F0E6E7A8E6B60AABAACA9A1.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.27-07.29.52:184][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.27-07.29.52:243][363]LogSavePackage: Save=15.28ms
+[2018.01.27-07.29.52:243][363]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground_BuiltData37394A9C44D1BAD96399F08F29AE761B.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset'
+[2018.01.27-07.29.52:245][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground_BuiltData.uasset
+[2018.01.27-07.29.53:984][463]Cmd: SELECT NONE
+[2018.01.27-07.30.00:790][816]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.30.00:813][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.30.00:813][816]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 3:30:00 PM)
+[2018.01.27-07.30.00:813][816]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-07.30.00:817][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003855s)
+[2018.01.27-07.30.00:818][816]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-07.30.00:818][816]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.01.27-07.30.00:818][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.004857s)
+[2018.01.27-07.30.00:852][816]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-07.30.00:904][816]LogInit: FAudioDevice initialized.
+[2018.01.27-07.30.00:936][816]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.30.00:940][816]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-23.30.00
+[2018.01.27-07.30.00:941][816]LogWorld: Bringing up level for play took: 0.003452
+[2018.01.27-07.30.00:942][816]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.189
+[2018.01.27-07.30.27:671][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.30.27:691][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.30.27:691][ 22]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 3:30:27 PM)
+[2018.01.27-07.30.27:692][ 22]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-07.30.27:695][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003840s)
+[2018.01.27-07.30.27:696][ 22]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-07.30.27:696][ 22]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2018.01.27-07.30.27:696][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.004915s)
+[2018.01.27-07.30.27:731][ 22]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-07.30.27:779][ 22]LogInit: FAudioDevice initialized.
+[2018.01.27-07.30.27:813][ 22]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.30.27:816][ 22]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-23.30.27
+[2018.01.27-07.30.27:817][ 22]LogWorld: Bringing up level for play took: 0.002227
+[2018.01.27-07.30.27:818][ 22]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 1.065
+[2018.01.27-07.30.37:774][519]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.30.37:793][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.30.37:793][519]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 3:30:37 PM)
+[2018.01.27-07.30.37:793][519]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-07.30.37:797][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003509s)
+[2018.01.27-07.30.37:798][519]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-07.30.37:798][519]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2018.01.27-07.30.37:798][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.004867s)
+[2018.01.27-07.30.37:834][519]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-07.30.37:883][519]LogInit: FAudioDevice initialized.
+[2018.01.27-07.30.37:922][519]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.30.37:924][519]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-23.30.37
+[2018.01.27-07.30.37:925][519]LogWorld: Bringing up level for play took: 0.002184
+[2018.01.27-07.30.37:926][519]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.827
+[2018.01.27-07.30.44:021][793]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.30.44:039][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.30.44:040][793]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 3:30:44 PM)
+[2018.01.27-07.30.44:040][793]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-07.30.44:044][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003544s)
+[2018.01.27-07.30.44:044][793]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-07.30.44:044][793]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2018.01.27-07.30.44:045][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.004573s)
+[2018.01.27-07.30.44:076][793]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-07.30.44:127][793]LogInit: FAudioDevice initialized.
+[2018.01.27-07.30.44:164][793]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.30.44:169][793]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.26-23.30.44
+[2018.01.27-07.30.44:171][793]LogWorld: Bringing up level for play took: 0.005012
+[2018.01.27-07.30.44:173][793]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.58
+[2018.01.27-07.32.08:039][813]Cmd: SELECT NONE
+[2018.01.27-07.32.17:365][  6]Cmd: QUIT_EDITOR
+[2018.01.27-07.32.17:644][  6]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.27-07.32.17:672][  6]LogExit: Preparing to exit.
+[2018.01.27-07.32.18:625][  6]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/' was aborted.
+[2018.01.27-07.32.18:750][  6]LogExit: Editor shut down
+[2018.01.27-07.32.18:781][  6]LogExit: Transaction tracking system shut down
+[2018.01.27-07.32.18:880][  6]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.27-07.32.18:880][  6]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/' was aborted.
+[2018.01.27-07.32.18:881][  6]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.27-07.32.18:881][  6]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.27-07.32.18:881][  6]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.27-07.32.18:881][  6]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.27-07.32.18:881][  6]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.27-07.32.19:049][  6]LogExit: Object subsystem successfully closed.
+[2018.01.27-07.32.19:080][  6]LogD3D11RHI: Shutdown
+[2018.01.27-07.32.19:080][  6]LogD3D11RHI: CleanupD3DDevice
+[2018.01.27-07.32.19:088][  6]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.27-07.32.19:103][  6]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2018.01.27-07.32.19:112][  6]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.01.27-07.32.19:112][  6]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (554)
+[2018.01.27-07.32.19:112][  6]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.01.27-07.32.19:112][  6]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.01.27-07.32.19:112][  6]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.01.27-07.32.19:112][  6]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.01.27-07.32.19:112][  6]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.01.27-07.32.19:118][  6]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Collections/' was aborted.
+[2018.01.27-07.32.19:118][  6]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Developers/Treym/Collections/' was aborted.
+[2018.01.27-07.32.19:118][  6]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Collections/' was aborted.
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.27-07.32.19:118][  6]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.27-07.32.19:119][  6]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.27-07.32.19:120][  6]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.27-07.32.19:121][  6]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.27-07.32.19:121][  6]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.27-07.32.19:121][  6]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.27-07.32.19:121][  6]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.27-07.32.19:121][  6]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.27-07.32.20:033][  6]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.27-07.32.20:033][  6]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.27-07.32.20:033][  6]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.27-07.32.20:033][  6]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.27-07.32.20:034][  6]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.27-07.32.20:089][  6]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.27-07.32.20:105][  6]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.27-07.32.20:106][  6]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.27-07.32.20:107][  6]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.27-07.32.20:107][  6]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.27-07.32.20:107][  6]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.27-07.32.20:107][  6]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.27-07.32.20:107][  6]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.27-07.32.20:108][  6]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.01.27-07.32.20:192][  6]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.01.27-07.32.20:192][  6]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.01.27-07.32.20:192][  6]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.01.27-07.32.20:192][  6]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.01.27-07.32.20:192][  6]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.01.27-07.32.20:192][  6]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.01.27-07.32.20:193][  6]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.01.27-07.32.20:195][  6]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.01.27-07.32.20:195][  6]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.01.27-07.32.20:195][  6]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.01.27-07.32.20:195][  6]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Binaries/Win64' was aborted.
+[2018.01.27-07.32.20:196][  6]LogModuleManager: Shutting down and abandoning module ggj2018 (270)
+[2018.01.27-07.32.20:196][  6]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.27-07.32.20:196][  6]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.27-07.32.20:196][  6]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.27-07.32.20:196][  6]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.27-07.32.20:196][  6]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.27-07.32.20:196][  6]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.27-07.32.20:196][  6]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.27-07.32.20:196][  6]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.27-07.32.20:297][  6]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.27-07.32.20:398][  6]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.27-07.32.20:398][  6]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.27-07.32.20:398][  6]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.27-07.32.20:398][  6]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.27-07.32.20:398][  6]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.27-07.32.20:398][  6]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.27-07.32.20:400][  6]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.27-07.32.20:400][  6]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.27-07.32.20:400][  6]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.27-07.32.20:400][  6]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.27-07.32.20:403][  6]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.27-07.32.20:403][  6]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.27-07.32.20:403][  6]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.27-07.32.20:403][  6]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.27-07.32.20:403][  6]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.27-07.32.20:403][  6]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.27-07.32.20:409][  6]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.27-07.32.20:412][  6]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.27-07.32.20:412][  6]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.27-07.32.20:412][  6]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.27-07.32.20:412][  6]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.27-07.32.20:412][  6]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.27-07.32.20:412][  6]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.27-07.32.20:412][  6]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.27-07.32.20:412][  6]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.27-07.32.20:418][  6]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.27-07.32.20:418][  6]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.27-07.32.20:418][  6]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.27-07.32.20:418][  6]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.27-07.32.20:418][  6]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.27-07.32.20:418][  6]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.27-07.32.20:418][  6]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.27-07.32.20:418][  6]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.27-07.32.20:419][  6]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.27-07.32.20:423][  6]LogDerivedDataCache: Shutdown
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.27-07.32.20:423][  6]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.27-07.32.20:424][  6]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.27-07.32.20:424][  6]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.27-07.32.20:424][  6]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0770A024-43B2-D22F-A8F8-57B8CA9182B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=bd3320cb45b57486d7a0d2a02f576e0d%7C08ec85b453944d8e86d6651d1fcb8040%7C5b7f909b-f924-4439-b929-2ff472a0c63b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.27-07.32.20:444][  6]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.27-07.32.20:445][  6]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.27-07.32.20:445][  6]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.27-07.32.20:445][  6]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.27-07.32.20:445][  6]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.27-07.32.20:445][  6]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.27-07.32.20:445][  6]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.27-07.32.20:445][  6]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.27-07.32.20:452][  6]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.27-07.32.20:456][  6]LogExit: Exiting.
+[2018.01.27-07.32.20:475][  6]Log file closed, 01/26/18 23:32:20
