@@ -142,18 +142,19 @@ void APlayerCharacter::RayCast() {
 		FVector StartTrace = GetActorLocation() + (50.0f * FaceDirection);
 		FVector EndTrace = (temp * 1000) + StartTrace;
 		if (GetWorld()->LineTraceSingleByChannel(*HitResult, StartTrace, EndTrace, ECC_Pawn)) {
-			
-			DrawDebugLine(GetWorld(), StartTrace, EndTrace, FColor::Red, false);
-			
+					
 			
 			if (HitResult->GetActor() != NULL) {
+				EndTrace = HitResult->Location;
 				if (HitResult->GetActor()->GetClass()->IsChildOf(APlayerCharacter::StaticClass())) {
 					APlayerCharacter* other = Cast<APlayerCharacter>(HitResult->GetActor());
 					other->CanIBeUsed = true;
+					
 					//GEngine->AddOnScreenDebugMessage(-1, 5.0, FColor::Cyan, TEXT("Found a character"), true);
 				}
 			}
 		}
+		DrawDebugLine(GetWorld(), StartTrace, EndTrace, FColor::Yellow, false);
 		
 	}
 }
