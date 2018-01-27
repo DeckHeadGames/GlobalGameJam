@@ -2424,3 +2424,1331 @@ LogInit: Object subsystem initialized
 [2018.01.27-15.46.56:707][732]LogMainFrame: MainFrame: Module compiling took 1.182 seconds
 [2018.01.27-15.46.56:994][732]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2369 classes and 525 folders.
 [2018.01.27-15.46.56:996][732]Display: HotReload took  1.5s.
+[2018.01.27-15.48.33:845][181]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-15.48.33:868][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-15.48.33:868][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.48.33:868][181]PIE: New page: PIE session: AIPlayground (Jan 26, 2018, 11:48:33 PM)
+[2018.01.27-15.48.33:869][181]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-15.48.33:876][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007118s)
+[2018.01.27-15.48.33:877][181]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-15.48.33:877][181]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2018.01.27-15.48.33:877][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.008693s)
+[2018.01.27-15.48.33:968][181]LogInit: XAudio2 using 'SAMSUNG-8 (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-15.48.33:978][181]LogInit: FAudioDevice initialized.
+[2018.01.27-15.48.34:091][181]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-15.48.34:096][181]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-07.48.34
+[2018.01.27-15.48.34:097][181]LogWorld: Bringing up level for play took: 0.005585
+[2018.01.27-15.48.34:102][181]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.646
+[2018.01.27-15.48.34:102][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-15.48.37:517][338]LogBlueprintUserMessages: [Flashlight_BP_498] Flashlight picked up
+[2018.01.27-15.49.11:194][939]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-15.49.51:405][866]LogBlueprintUserMessages: [Flashlight_BP_C_0] Flashlight picked up
+[2018.01.27-15.50.14:190][961]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-15.50.16:880][ 90]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:880][ 90]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:901][ 91]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:901][ 91]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:922][ 92]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:922][ 92]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:943][ 93]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:943][ 93]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:968][ 94]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:968][ 94]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:987][ 95]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.16:987][ 95]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:010][ 96]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:010][ 96]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:030][ 97]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:030][ 97]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:052][ 98]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:052][ 98]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:074][ 99]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:074][ 99]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:095][100]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:095][100]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:116][101]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:116][101]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:137][102]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:137][102]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:157][103]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:157][103]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:178][104]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:179][104]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:199][105]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:199][105]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:219][106]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:219][106]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:239][107]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:239][107]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:259][108]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:259][108]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:280][109]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:280][109]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:301][110]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:301][110]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:321][111]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:321][111]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:342][112]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:342][112]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:363][113]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:363][113]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:384][114]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:384][114]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:405][115]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:405][115]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:426][116]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:426][116]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:446][117]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:446][117]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:468][118]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:468][118]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:488][119]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:488][119]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:512][120]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:512][120]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:532][121]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:532][121]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:553][122]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:553][122]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:573][123]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:573][123]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:594][124]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:594][124]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:614][125]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:615][125]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:634][126]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:634][126]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:654][127]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:654][127]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:674][128]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:675][128]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:694][129]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:694][129]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:715][130]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:715][130]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:735][131]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:735][131]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:755][132]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:755][132]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:776][133]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:776][133]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:796][134]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:796][134]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:815][135]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:815][135]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:835][136]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:835][136]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:855][137]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:855][137]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:877][138]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:877][138]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:897][139]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:897][139]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:919][140]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:919][140]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:940][141]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:940][141]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:960][142]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:960][142]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:981][143]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.17:981][143]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:002][144]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:002][144]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:023][145]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:023][145]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:043][146]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:043][146]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:064][147]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:064][147]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:085][148]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:085][148]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:105][149]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:105][149]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:125][150]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:125][150]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:147][151]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:147][151]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:166][152]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:166][152]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:186][153]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:186][153]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:207][154]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:208][154]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:228][155]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:228][155]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:252][156]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:252][156]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:275][157]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:275][157]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:296][158]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:296][158]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:317][159]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:317][159]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:340][160]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:340][160]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:360][161]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:361][161]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:381][162]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:381][162]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:401][163]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:401][163]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:423][164]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:423][164]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:444][165]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:444][165]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:465][166]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:465][166]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:487][167]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:487][167]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:510][168]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:510][168]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:530][169]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:530][169]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:553][170]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:553][170]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:573][171]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:573][171]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:595][172]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:595][172]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:617][173]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:617][173]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:639][174]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:639][174]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:660][175]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:660][175]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:681][176]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:681][176]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:703][177]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:704][177]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:725][178]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:726][178]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:746][179]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:747][179]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:768][180]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:768][180]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:790][181]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:790][181]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:812][182]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:812][182]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:831][183]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:831][183]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:854][184]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:854][184]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:876][185]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:876][185]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:896][186]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:897][186]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:920][187]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:920][187]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:942][188]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:942][188]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:965][189]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:965][189]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:986][190]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.18:986][190]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:011][191]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:011][191]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:031][192]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:031][192]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:052][193]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:052][193]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:071][194]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:071][194]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:092][195]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:092][195]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:113][196]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:113][196]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:133][197]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:133][197]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:156][198]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:156][198]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:176][199]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:176][199]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:195][200]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:195][200]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:215][201]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:215][201]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:235][202]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:235][202]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:255][203]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:255][203]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:275][204]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:275][204]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:295][205]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:296][205]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:315][206]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:315][206]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:336][207]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:336][207]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:356][208]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:356][208]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:376][209]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:376][209]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:397][210]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:397][210]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:417][211]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:417][211]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:437][212]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:437][212]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:456][213]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:456][213]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:477][214]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:477][214]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:498][215]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:498][215]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:519][216]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:519][216]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:538][217]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:538][217]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:559][218]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:559][218]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:578][219]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:578][219]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:598][220]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:598][220]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:618][221]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:618][221]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:637][222]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:637][222]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:656][223]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:656][223]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:677][224]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:677][224]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:698][225]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:698][225]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:718][226]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:718][226]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:738][227]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:738][227]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:757][228]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:757][228]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:778][229]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:778][229]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:799][230]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:799][230]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:818][231]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:819][231]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:839][232]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:839][232]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:859][233]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:859][233]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:878][234]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:878][234]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:898][235]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:898][235]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:916][236]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:916][236]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:936][237]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:936][237]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:956][238]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:956][238]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:977][239]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:977][239]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:998][240]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.19:998][240]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:019][241]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:019][241]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:039][242]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:040][242]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:060][243]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:060][243]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:080][244]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:081][244]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:101][245]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:101][245]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:121][246]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:121][246]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:142][247]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:142][247]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:161][248]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:161][248]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:183][249]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:183][249]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:206][250]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:206][250]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:226][251]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:226][251]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:248][252]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:248][252]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:268][253]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:268][253]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:289][254]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:289][254]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:309][255]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:309][255]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:332][256]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:332][256]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:353][257]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:353][257]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:374][258]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:374][258]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:397][259]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:397][259]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:418][260]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:418][260]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:440][261]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:440][261]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:460][262]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:460][262]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:483][263]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:483][263]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:504][264]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:505][264]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:524][265]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:524][265]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:547][266]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:547][266]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:566][267]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:567][267]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:587][268]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:587][268]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:608][269]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:608][269]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:629][270]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:629][270]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:651][271]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:651][271]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:671][272]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:671][272]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:693][273]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:693][273]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:713][274]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:713][274]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:735][275]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:735][275]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:755][276]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:755][276]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:777][277]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:777][277]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:798][278]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:798][278]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:819][279]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:819][279]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:840][280]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:840][280]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:861][281]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:861][281]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:881][282]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:881][282]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:902][283]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:902][283]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:923][284]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:923][284]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:945][285]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:945][285]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:966][286]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:966][286]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:987][287]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.20:987][287]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:009][288]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:009][288]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:034][289]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:034][289]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:056][290]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:056][290]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:080][291]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:080][291]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:104][292]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:104][292]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:128][293]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:128][293]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:153][294]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:154][294]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:175][295]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:175][295]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:199][296]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:199][296]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:221][297]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:221][297]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:264][298]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:264][298]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:272][299]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:272][299]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:289][300]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:290][300]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:307][301]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:307][301]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:328][302]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:328][302]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:348][303]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:348][303]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:367][304]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:367][304]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:387][305]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:387][305]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:406][306]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:406][306]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:427][307]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:427][307]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:450][308]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:450][308]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:470][309]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:470][309]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:490][310]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:490][310]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:509][311]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:509][311]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:530][312]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:530][312]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:548][313]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:548][313]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:567][314]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:567][314]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:588][315]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:588][315]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:610][316]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:610][316]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:632][317]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:632][317]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:652][318]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:652][318]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:671][319]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:671][319]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:693][320]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:693][320]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:713][321]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:713][321]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:733][322]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:733][322]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:752][323]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:752][323]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:772][324]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:772][324]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:793][325]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:793][325]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:814][326]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:814][326]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:835][327]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:835][327]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:855][328]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:855][328]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:875][329]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.21:876][329]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.30:767][752]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.30:768][752]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:671][892]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:671][892]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:691][893]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:691][893]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:714][894]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:714][894]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:735][895]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:735][895]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:759][896]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:759][896]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:780][897]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:780][897]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:800][898]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:800][898]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:820][899]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:820][899]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:842][900]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:842][900]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:863][901]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:863][901]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:885][902]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:885][902]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:907][903]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:907][903]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:930][904]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:930][904]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:950][905]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:950][905]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:971][906]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:971][906]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:991][907]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.33:991][907]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:012][908]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:012][908]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:033][909]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:033][909]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:054][910]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:054][910]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:075][911]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:075][911]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:096][912]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:096][912]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:115][913]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:115][913]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:135][914]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:135][914]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:155][915]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:155][915]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:175][916]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:175][916]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:195][917]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:195][917]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:214][918]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:214][918]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:234][919]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:234][919]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:255][920]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:255][920]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:275][921]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:275][921]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:294][922]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:294][922]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:314][923]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:314][923]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:334][924]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:334][924]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:357][925]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:357][925]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:377][926]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:377][926]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:396][927]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:396][927]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:417][928]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:417][928]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:436][929]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:436][929]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:455][930]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:455][930]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:476][931]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:477][931]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:497][932]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:497][932]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:519][933]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:519][933]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:539][934]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:540][934]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:559][935]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:559][935]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:582][936]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:582][936]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:602][937]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:603][937]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:622][938]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:622][938]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:640][939]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:640][939]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:660][940]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:660][940]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:681][941]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:681][941]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:702][942]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:702][942]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:723][943]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:723][943]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:743][944]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:743][944]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:763][945]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:763][945]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:784][946]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:784][946]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:805][947]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:805][947]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:827][948]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:827][948]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:848][949]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:848][949]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:869][950]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:869][950]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:889][951]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:889][951]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:911][952]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:911][952]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:930][953]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:930][953]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:951][954]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:952][954]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:972][955]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:972][955]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:992][956]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.34:992][956]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:013][957]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:013][957]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:033][958]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:034][958]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:055][959]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:055][959]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:076][960]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:076][960]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:097][961]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:097][961]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:118][962]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:118][962]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:137][963]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:137][963]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:158][964]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:158][964]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:179][965]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:179][965]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:199][966]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:199][966]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:221][967]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:221][967]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:240][968]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:240][968]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:260][969]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:260][969]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:281][970]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:281][970]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:302][971]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:302][971]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:321][972]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:322][972]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:342][973]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:342][973]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:363][974]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:363][974]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:384][975]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:384][975]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:405][976]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:405][976]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:425][977]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:425][977]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:443][978]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:444][978]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:464][979]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:464][979]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:488][980]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:488][980]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:512][981]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:512][981]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:531][982]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:531][982]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:554][983]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:554][983]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:575][984]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:575][984]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:596][985]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:596][985]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:617][986]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:617][986]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:638][987]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:638][987]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:657][988]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:657][988]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:676][989]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:676][989]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:696][990]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:696][990]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:718][991]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:718][991]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:738][992]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:738][992]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:757][993]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:758][993]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:777][994]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:777][994]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:798][995]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:798][995]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:818][996]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:818][996]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:839][997]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:839][997]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:859][998]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:859][998]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:879][999]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:879][999]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:900][  0]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:900][  0]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:920][  1]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:920][  1]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:940][  2]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:940][  2]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:961][  3]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:961][  3]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:981][  4]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.35:981][  4]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:003][  5]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:003][  5]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:024][  6]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:024][  6]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:044][  7]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:044][  7]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:064][  8]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:065][  8]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:085][  9]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:085][  9]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:106][ 10]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:106][ 10]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:126][ 11]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:126][ 11]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:147][ 12]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:147][ 12]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:168][ 13]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:168][ 13]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:190][ 14]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:190][ 14]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:210][ 15]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:210][ 15]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:230][ 16]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:230][ 16]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:251][ 17]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:251][ 17]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:271][ 18]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:271][ 18]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:292][ 19]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:292][ 19]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:311][ 20]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:311][ 20]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:332][ 21]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:332][ 21]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:353][ 22]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:353][ 22]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:372][ 23]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:372][ 23]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:393][ 24]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:393][ 24]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:414][ 25]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:414][ 25]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:435][ 26]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:435][ 26]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:455][ 27]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:455][ 27]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:477][ 28]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:477][ 28]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:497][ 29]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:497][ 29]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:518][ 30]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:518][ 30]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:538][ 31]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:538][ 31]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:557][ 32]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:557][ 32]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:577][ 33]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:577][ 33]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:598][ 34]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:598][ 34]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:619][ 35]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:619][ 35]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:639][ 36]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:640][ 36]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:660][ 37]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:660][ 37]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:679][ 38]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:680][ 38]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:700][ 39]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:700][ 39]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:722][ 40]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:722][ 40]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:742][ 41]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:742][ 41]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:763][ 42]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:763][ 42]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:783][ 43]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:783][ 43]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:803][ 44]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:803][ 44]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:823][ 45]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:823][ 45]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:843][ 46]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:843][ 46]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:864][ 47]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:864][ 47]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:886][ 48]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:886][ 48]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:907][ 49]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:907][ 49]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:926][ 50]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:926][ 50]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:949][ 51]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:949][ 51]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:969][ 52]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:969][ 52]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:992][ 53]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.36:992][ 53]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:012][ 54]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:012][ 54]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:032][ 55]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:032][ 55]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:053][ 56]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:053][ 56]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:073][ 57]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:073][ 57]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:094][ 58]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:095][ 58]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:115][ 59]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:115][ 59]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:135][ 60]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:135][ 60]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:155][ 61]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:155][ 61]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:176][ 62]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:176][ 62]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:195][ 63]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:196][ 63]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:216][ 64]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:216][ 64]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:236][ 65]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:236][ 65]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:256][ 66]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:256][ 66]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:277][ 67]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:277][ 67]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:297][ 68]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:297][ 68]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:318][ 69]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:318][ 69]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:339][ 70]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:339][ 70]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:359][ 71]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:359][ 71]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:381][ 72]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:381][ 72]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:401][ 73]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:401][ 73]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:423][ 74]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:423][ 74]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:444][ 75]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:444][ 75]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:465][ 76]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:465][ 76]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:487][ 77]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:487][ 77]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:510][ 78]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:510][ 78]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:530][ 79]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:531][ 79]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:553][ 80]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:553][ 80]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:575][ 81]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:575][ 81]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:595][ 82]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:595][ 82]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:618][ 83]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:618][ 83]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:639][ 84]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:639][ 84]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:660][ 85]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:660][ 85]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:682][ 86]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:682][ 86]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:704][ 87]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:704][ 87]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:725][ 88]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:725][ 88]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:748][ 89]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:748][ 89]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:768][ 90]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:768][ 90]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:791][ 91]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:791][ 91]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:814][ 92]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:814][ 92]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:835][ 93]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:835][ 93]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:855][ 94]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:855][ 94]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:876][ 95]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:877][ 95]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:897][ 96]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:897][ 96]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:917][ 97]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:917][ 97]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:937][ 98]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:937][ 98]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:957][ 99]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:957][ 99]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:979][100]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:979][100]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:999][101]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.37:999][101]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:019][102]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:019][102]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:039][103]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:039][103]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:060][104]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:060][104]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:081][105]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:081][105]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:102][106]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:102][106]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:123][107]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:123][107]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:144][108]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:144][108]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:165][109]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:165][109]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:185][110]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:185][110]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:205][111]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:206][111]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:226][112]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:226][112]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:248][113]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:248][113]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:269][114]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:269][114]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:290][115]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:290][115]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:309][116]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:309][116]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:332][117]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:332][117]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:353][118]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:353][118]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:375][119]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:375][119]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:396][120]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:396][120]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:416][121]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:416][121]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:437][122]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:437][122]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:458][123]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:458][123]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:481][124]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:481][124]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:503][125]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:503][125]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:524][126]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:524][126]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:545][127]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:545][127]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:566][128]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:566][128]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:589][129]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:590][129]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:610][130]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:610][130]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:631][131]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:631][131]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:653][132]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:654][132]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:674][133]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:674][133]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:694][134]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:694][134]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:715][135]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:715][135]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:736][136]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:736][136]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:757][137]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:757][137]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:779][138]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:779][138]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:799][139]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:799][139]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:819][140]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:820][140]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:840][141]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:840][141]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:862][142]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:863][142]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:884][143]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:884][143]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:906][144]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:906][144]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:929][145]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:929][145]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:949][146]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.38:949][146]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:034][150]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:034][150]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:055][151]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:055][151]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:074][152]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:074][152]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:095][153]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:095][153]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:116][154]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:116][154]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:136][155]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:136][155]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:158][156]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:158][156]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:178][157]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:179][157]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:199][158]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:199][158]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:219][159]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:219][159]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:240][160]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:240][160]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:261][161]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:261][161]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:281][162]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:281][162]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:302][163]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:302][163]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:323][164]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:323][164]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:345][165]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:345][165]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:366][166]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:366][166]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:387][167]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:387][167]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:408][168]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:408][168]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:431][169]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.39:431][169]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.50.44:779][422]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-15.51.15:123][881]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-15.51.43:680][278]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-15.51.43:736][278]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.43.42:899][452]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-16.43.42:933][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.43.42:933][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.43.42:933][452]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 12:43:42 AM)
+[2018.01.27-16.43.42:933][452]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-16.43.42:942][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008471s)
+[2018.01.27-16.43.42:943][452]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-16.43.42:943][452]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2018.01.27-16.43.42:943][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.009988s)
+[2018.01.27-16.43.42:985][452]LogInit: XAudio2 using 'SAMSUNG-8 (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-16.43.42:997][452]LogInit: FAudioDevice initialized.
+[2018.01.27-16.43.43:110][452]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-16.43.43:115][452]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-08.43.43
+[2018.01.27-16.43.43:116][452]LogWorld: Bringing up level for play took: 0.005080
+[2018.01.27-16.43.43:122][452]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.375
+[2018.01.27-16.43.43:122][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.43.46:617][602]LogBlueprintUserMessages: [Flashlight_BP_498] Flashlight picked up
+[2018.01.27-16.45.35:794][553]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.45.39:235][711]LogBlueprintUserMessages: [Flashlight_BP_C_0] Flashlight picked up
+[2018.01.27-16.45.40:265][758]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.45.42:569][863]LogBlueprintUserMessages: [Flashlight_BP_C_1] Flashlight picked up
+[2018.01.27-16.45.47:053][ 70]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.45.50:096][211]LogBlueprintUserMessages: [Flashlight_BP_C_2] Flashlight picked up
+[2018.01.27-16.45.53:499][368]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.45.53:846][384]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:847][384]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:869][385]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:869][385]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:894][386]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:894][386]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:916][387]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:916][387]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:938][388]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:938][388]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:960][389]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:960][389]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:982][390]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.53:982][390]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:003][391]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:003][391]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:026][392]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:026][392]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:049][393]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:049][393]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:072][394]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:072][394]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:099][395]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:099][395]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:121][396]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:121][396]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:143][397]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:143][397]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:166][398]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:166][398]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:188][399]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:188][399]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:210][400]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:210][400]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:231][401]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:231][401]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:255][402]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:255][402]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:276][403]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:276][403]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:298][404]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:298][404]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:320][405]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:321][405]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:344][406]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:344][406]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:366][407]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:366][407]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:387][408]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:387][408]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:410][409]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:410][409]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:433][410]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:433][410]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:455][411]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:455][411]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:475][412]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:475][412]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:497][413]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:497][413]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:518][414]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:518][414]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:539][415]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:540][415]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:561][416]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:561][416]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:583][417]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:583][417]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:605][418]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:605][418]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:627][419]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:627][419]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:650][420]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:650][420]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:670][421]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:671][421]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:694][422]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:694][422]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:714][423]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:714][423]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:735][424]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:735][424]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:756][425]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:756][425]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:776][426]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:776][426]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:798][427]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:798][427]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:818][428]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:818][428]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:838][429]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:838][429]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:861][430]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:861][430]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:882][431]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:882][431]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:904][432]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:904][432]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:926][433]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:926][433]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:948][434]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:948][434]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:993][436]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.54:993][436]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.45.55:643][466]LogBlueprintUserMessages: [Flashlight_BP_C_3] Flashlight picked up
+[2018.01.27-16.46.05:666][932]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.46.15:843][405]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:843][405]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:862][406]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:862][406]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:883][407]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:883][407]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:906][408]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:906][408]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:930][409]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:930][409]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:951][410]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:951][410]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:973][411]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:974][411]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:995][412]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.15:995][412]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:016][413]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:016][413]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:038][414]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:038][414]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:059][415]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:059][415]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:080][416]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:080][416]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:100][417]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:100][417]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:120][418]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:121][418]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:142][419]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.16:142][419]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:693][490]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:693][490]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:715][491]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:715][491]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:738][492]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:738][492]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:759][493]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:760][493]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:782][494]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:782][494]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:804][495]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:804][495]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:825][496]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:825][496]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:847][497]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:847][497]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:870][498]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:870][498]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:890][499]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.17:891][499]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.22:715][723]LogBlueprintUserMessages: [Flashlight_BP_C_4] Flashlight picked up
+[2018.01.27-16.46.29:552][ 41]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.46.50:629][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.46.50:684][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.47.53:815][489]BlueprintLog: New page: Compile Flashlight_BP
+[2018.01.27-16.47.54:808][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flashlight/Flashlight_BP" FILE="../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Flashlight/Flashlight_BP.uasset" SILENT=true
+[2018.01.27-16.47.54:861][506]LogSavePackage: Save=37.16ms
+[2018.01.27-16.47.54:861][506]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Flashlight_BPE49AE5D6446DD1788FD6AE829FD57D31.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Flashlight/Flashlight_BP.uasset'
+[2018.01.27-16.47.54:866][506]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Flashlight/Flashlight_BP.uasset
+[2018.01.27-16.48.03:451][641]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.27-16.48.03:478][641]Candidate modules for hot reload:
+[2018.01.27-16.48.03:479][641]  ggj2018
+[2018.01.27-16.48.03:479][641]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe ggj2018 -ModuleWithSuffix ggj2018 8282 Win64 Development -editorrecompile -canskiplink "C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/ggj2018.uproject" ]
+[2018.01.27-16.48.03:490][641]Warning: Starting HotReload took  0.0s.
+[2018.01.27-16.48.04:760][685]CompilerResultsLog: New page: Compilation - Jan 27, 2018, 12:48:04 AM
+[2018.01.27-16.48.04:760][685]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.27-16.48.04:760][685]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.27-16.48.04:760][685]CompilerResultsLog: Target is up to date
+[2018.01.27-16.48.04:760][685]CompilerResultsLog: Total build time: 0.94 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.27-16.48.04:760][685]LogMainFrame: MainFrame: Module compiling took 1.309 seconds
+[2018.01.27-16.48.05:035][685]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2369 classes and 525 folders.
+[2018.01.27-16.48.05:037][685]Display: HotReload took  1.6s.
+[2018.01.27-16.48.10:828][909]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-16.48.10:849][909]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.48.10:849][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.48.10:849][909]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 12:48:10 AM)
+[2018.01.27-16.48.10:849][909]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-16.48.10:856][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006970s)
+[2018.01.27-16.48.10:857][909]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-16.48.10:857][909]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2018.01.27-16.48.10:857][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.007801s)
+[2018.01.27-16.48.10:927][909]LogInit: XAudio2 using 'SAMSUNG-8 (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-16.48.10:936][909]LogInit: FAudioDevice initialized.
+[2018.01.27-16.48.11:076][909]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-16.48.11:082][909]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-08.48.11
+[2018.01.27-16.48.11:083][909]LogWorld: Bringing up level for play took: 0.005794
+[2018.01.27-16.48.11:089][909]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.342
+[2018.01.27-16.48.11:090][909]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.49.20:239][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.49.20:300][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.49.46:889][839]LogSavePackage: Save=191.47ms
+[2018.01.27-16.49.46:889][839]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground_Auto1E486F69C47EA62CC1E107F9448B8CC52.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Autosaves/Game/AI_Playground/AIPlayground_Auto1.umap'
+[2018.01.27-16.49.46:892][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Autosaves/Game/AI_Playground/AIPlayground_Auto1.umap
+[2018.01.27-16.49.46:896][839]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AI_Playground/AIPlayground' took 0.233
+[2018.01.27-16.49.46:896][839]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.233
+[2018.01.27-16.51.34:911][326]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-16.51.34:934][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.51.34:934][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.51.34:935][326]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 12:51:34 AM)
+[2018.01.27-16.51.34:935][326]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-16.51.34:939][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004463s)
+[2018.01.27-16.51.34:940][326]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-16.51.34:940][326]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.01.27-16.51.34:940][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.005446s)
+[2018.01.27-16.51.34:976][326]LogInit: XAudio2 using 'SAMSUNG-8 (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-16.51.34:985][326]LogInit: FAudioDevice initialized.
+[2018.01.27-16.51.35:094][326]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-16.51.35:099][326]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-08.51.35
+[2018.01.27-16.51.35:101][326]LogWorld: Bringing up level for play took: 0.006430
+[2018.01.27-16.51.35:105][326]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.358
+[2018.01.27-16.51.35:106][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.52.30:249][918]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.52.40:087][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.52.40:143][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.53.59:962][607]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-16.56.53:941][129]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-16.56.53:967][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.56.53:968][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.56.53:968][129]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 12:56:53 AM)
+[2018.01.27-16.56.53:968][129]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-16.56.53:977][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008412s)
+[2018.01.27-16.56.53:978][129]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-16.56.53:978][129]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2018.01.27-16.56.53:978][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.010245s)
+[2018.01.27-16.56.54:021][129]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-16.56.54:081][129]LogInit: FAudioDevice initialized.
+[2018.01.27-16.56.54:196][129]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-16.56.54:200][129]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-08.56.54
+[2018.01.27-16.56.54:202][129]LogWorld: Bringing up level for play took: 0.005336
+[2018.01.27-16.56.54:210][129]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.537
+[2018.01.27-16.56.54:210][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-16.58.47:524][591]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.58.54:976][956]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.59.06:414][514]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.59.09:757][676]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.59.12:646][816]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.59.15:175][940]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.59.17:639][ 60]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.59.20:279][189]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-16.59.25:933][464]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-17.00.51:522][643]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.27-17.01.56:014][809]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
