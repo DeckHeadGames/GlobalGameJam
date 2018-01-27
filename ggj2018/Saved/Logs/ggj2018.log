@@ -3818,3 +3818,79 @@ LogInit: Object subsystem initialized
 [2018.01.27-17.08.06:541][455]LogSavePackage: Save=190.56ms
 [2018.01.27-17.08.06:541][455]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlaygroundA15A5C804CD3AFDAB10428AF582617D3.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
 [2018.01.27-17.08.06:545][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.27-17.11.46:848][254]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.27-17.11.46:873][254]Candidate modules for hot reload:
+[2018.01.27-17.11.46:873][254]  ggj2018
+[2018.01.27-17.11.46:873][254]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe ggj2018 -ModuleWithSuffix ggj2018 2725 Win64 Development -editorrecompile -canskiplink "C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/ggj2018.uproject" ]
+[2018.01.27-17.11.46:878][254]Warning: Starting HotReload took  0.0s.
+[2018.01.27-17.12.01:120][720]CompilerResultsLog: New page: Compilation - Jan 27, 2018, 1:12:01 AM
+[2018.01.27-17.12.01:121][720]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.27-17.12.01:121][720]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.27-17.12.01:121][720]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.01.27-17.12.01:121][720]CompilerResultsLog: PlayerCharacter.cpp
+[2018.01.27-17.12.01:121][720]CompilerResultsLog: [2/3] Link UE4Editor-ggj2018-2725.dll
+[2018.01.27-17.12.01:121][720]CompilerResultsLog: [3/3] Link UE4Editor-ggj2018-2725.lib
+[2018.01.27-17.12.01:121][720]CompilerResultsLog:    Creating library C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-2725.lib and object C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-2725.exp
+[2018.01.27-17.12.01:121][720]CompilerResultsLog:    Creating library C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-2725.suppressed.lib and object C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-2725.suppressed.exp
+[2018.01.27-17.12.01:121][720]CompilerResultsLog: Total build time: 13.91 seconds (Local executor: 13.07 seconds)
+[2018.01.27-17.12.01:121][720]LogMainFrame: MainFrame: Module compiling took 14.273 seconds
+[2018.01.27-17.12.01:209][720]LogContentBrowser: Native class hierarchy updated for 'ggj2018' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2018.01.27-17.12.01:211][720]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.01.27-17.12.01:533][720]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2369 classes and 525 folders.
+[2018.01.27-17.12.01:536][720]Display: HotReload took 14.7s.
+[2018.01.27-17.12.04:001][812]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-17.12.04:024][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-17.12.04:024][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-17.12.04:024][812]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 1:12:04 AM)
+[2018.01.27-17.12.04:024][812]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-17.12.04:031][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006947s)
+[2018.01.27-17.12.04:032][812]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-17.12.04:032][812]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2018.01.27-17.12.04:032][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.008133s)
+[2018.01.27-17.12.04:102][812]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-17.12.04:154][812]LogInit: FAudioDevice initialized.
+[2018.01.27-17.12.04:269][812]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-17.12.04:273][812]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-09.12.04
+[2018.01.27-17.12.04:275][812]LogWorld: Bringing up level for play took: 0.005074
+[2018.01.27-17.12.04:279][812]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.468
+[2018.01.27-17.12.04:280][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-17.12.36:275][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-17.12.36:334][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-17.12.47:463][558]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.27-17.12.47:481][558]Candidate modules for hot reload:
+[2018.01.27-17.12.47:481][558]  ggj2018
+[2018.01.27-17.12.47:482][558]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe ggj2018 -ModuleWithSuffix ggj2018 870 Win64 Development -editorrecompile -canskiplink "C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/ggj2018.uproject" ]
+[2018.01.27-17.12.47:491][558]Warning: Starting HotReload took  0.0s.
+[2018.01.27-17.13.02:074][135]CompilerResultsLog: New page: Compilation - Jan 27, 2018, 1:13:02 AM
+[2018.01.27-17.13.02:075][135]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.27-17.13.02:075][135]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.27-17.13.02:075][135]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.01.27-17.13.02:075][135]CompilerResultsLog: PlayerCharacter.cpp
+[2018.01.27-17.13.02:075][135]CompilerResultsLog: [2/3] Link UE4Editor-ggj2018-870.dll
+[2018.01.27-17.13.02:075][135]CompilerResultsLog: [3/3] Link UE4Editor-ggj2018-870.lib
+[2018.01.27-17.13.02:075][135]CompilerResultsLog:    Creating library C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-870.lib and object C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-870.exp
+[2018.01.27-17.13.02:075][135]CompilerResultsLog:    Creating library C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-870.suppressed.lib and object C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-870.suppressed.exp
+[2018.01.27-17.13.02:075][135]CompilerResultsLog: Total build time: 14.25 seconds (Local executor: 13.36 seconds)
+[2018.01.27-17.13.02:075][135]LogMainFrame: MainFrame: Module compiling took 14.611 seconds
+[2018.01.27-17.13.02:157][135]LogContentBrowser: Native class hierarchy updated for 'ggj2018' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2018.01.27-17.13.02:160][135]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.01.27-17.13.02:462][135]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2369 classes and 525 folders.
+[2018.01.27-17.13.02:464][135]Display: HotReload took 15.0s.
+[2018.01.27-17.13.04:224][205]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-17.13.04:248][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-17.13.04:248][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-17.13.04:248][205]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 1:13:04 AM)
+[2018.01.27-17.13.04:248][205]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.27-17.13.04:254][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006009s)
+[2018.01.27-17.13.04:255][205]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-17.13.04:255][205]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2018.01.27-17.13.04:255][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.007230s)
+[2018.01.27-17.13.04:325][205]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-17.13.04:376][205]LogInit: FAudioDevice initialized.
+[2018.01.27-17.13.04:489][205]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-17.13.04:493][205]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-09.13.04
+[2018.01.27-17.13.04:495][205]LogWorld: Bringing up level for play took: 0.004533
+[2018.01.27-17.13.04:499][205]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.248
+[2018.01.27-17.13.04:500][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-17.15.17:495][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.27-17.15.17:553][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
