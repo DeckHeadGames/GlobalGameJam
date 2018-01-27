@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\ggj2018.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{A7C762BB-C985-4FBE-8E12-6967AA576B0B}</UniqueIdentifier>
+			<UniqueIdentifier>{0220C002-269B-4E3C-B9DF-ACBA7BF6AF04}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\ggj2018.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{E01A09A0-398E-4DD6-A567-B28B0A418067}</UniqueIdentifier>
+			<UniqueIdentifier>{4474DA1B-7E3E-4120-AF44-5E12207568BB}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,12 +28,18 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\ggj2018">
-			<UniqueIdentifier>{B1B1CBFB-A866-41BC-B556-ECCD080CD50A}</UniqueIdentifier>
+			<UniqueIdentifier>{D8D8C198-FF46-4B65-8A56-08B4FBCE1D5E}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\ggj2018\AICharacter.cpp">
 			<Filter>Source\ggj2018</Filter>
 		</ClCompile >
 		<ClInclude Include="..\..\Source\ggj2018\AICharacter.h">
+			<Filter>Source\ggj2018</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ggj2018\Flashlight.cpp">
+			<Filter>Source\ggj2018</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ggj2018\Flashlight.h">
 			<Filter>Source\ggj2018</Filter>
 		</ClInclude >
 		<None Include="..\..\Source\ggj2018\ggj2018.Build.cs">
@@ -51,23 +57,11 @@
 		<ClInclude Include="..\..\Source\ggj2018\ggj2018GameModeBase.h">
 			<Filter>Source\ggj2018</Filter>
 		</ClInclude >
-		<Filter Include="Source\ggj2018\TP_ThirdPerson">
-			<UniqueIdentifier>{51D8096A-6BE4-41A0-A222-3E34D9D9CA87}</UniqueIdentifier>
-		</Filter>
-		<ClInclude Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPerson.h">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
-		</ClInclude >
-		<ClCompile Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
+		<ClCompile Include="..\..\Source\ggj2018\PlayerCharacter.cpp">
+			<Filter>Source\ggj2018</Filter>
 		</ClCompile >
-		<ClInclude Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
-		</ClInclude >
-		<ClCompile Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
-		</ClCompile >
-		<ClInclude Include="..\..\Source\ggj2018\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
-			<Filter>Source\ggj2018\TP_ThirdPerson</Filter>
+		<ClInclude Include="..\..\Source\ggj2018\PlayerCharacter.h">
+			<Filter>Source\ggj2018</Filter>
 		</ClInclude >
 	</ItemGroup>
 </Project>

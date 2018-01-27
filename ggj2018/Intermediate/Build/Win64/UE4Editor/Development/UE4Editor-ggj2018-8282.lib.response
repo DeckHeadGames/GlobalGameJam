@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ggj2018-8282.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\AICharacter.cpp.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\Flashlight.cpp.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\ggj2018.cpp.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\ggj2018GameModeBase.cpp.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\PlayerCharacter.cpp.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\AICharacter.gen.cpp.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\Flashlight.gen.cpp.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\ggj2018.init.gen.cpp.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\ggj2018GameModeBase.gen.cpp.obj"
+"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\PlayerCharacter.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ggj2018\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-8282.lib"
