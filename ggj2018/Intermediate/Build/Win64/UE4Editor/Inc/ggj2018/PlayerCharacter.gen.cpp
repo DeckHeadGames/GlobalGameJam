@@ -21,10 +21,6 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 	GGJ2018_API UFunction* Z_Construct_UFunction_APlayerCharacter_GetMoveDirection();
 	GGJ2018_API UFunction* Z_Construct_UFunction_APlayerCharacter_MovePlayerCharacter();
-	GGJ2018_API UFunction* Z_Construct_UFunction_APlayerCharacter_OnHit();
-	ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FHitResult();
-	ENGINE_API UClass* Z_Construct_UClass_UPrimitiveComponent_NoRegister();
-	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 	GGJ2018_API UFunction* Z_Construct_UFunction_APlayerCharacter_SlowCharacter();
 // End Cross Module References
 	void APlayerCharacter::StaticRegisterNativesAPlayerCharacter()
@@ -34,7 +30,6 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 			{ "GetFaceDirection", (Native)&APlayerCharacter::execGetFaceDirection },
 			{ "GetMoveDirection", (Native)&APlayerCharacter::execGetMoveDirection },
 			{ "MovePlayerCharacter", (Native)&APlayerCharacter::execMovePlayerCharacter },
-			{ "OnHit", (Native)&APlayerCharacter::execOnHit },
 			{ "SlowCharacter", (Native)&APlayerCharacter::execSlowCharacter },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
@@ -120,56 +115,6 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 		}
 		return ReturnFunction;
 	}
-	UFunction* Z_Construct_UFunction_APlayerCharacter_OnHit()
-	{
-		struct PlayerCharacter_eventOnHit_Parms
-		{
-			UPrimitiveComponent* HitComp;
-			AActor* OtherActor;
-			UPrimitiveComponent* OtherComp;
-			FVector NormalImpulse;
-			FHitResult Hit;
-		};
-		static UFunction* ReturnFunction = nullptr;
-		if (!ReturnFunction)
-		{
-#if WITH_METADATA
-			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Hit_MetaData[] = {
-				{ "NativeConst", "" },
-			};
-#endif
-			static const UE4CodeGen_Private::FStructPropertyParams NewProp_Hit = { UE4CodeGen_Private::EPropertyClass::Struct, "Hit", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010008008000182, 1, nullptr, STRUCT_OFFSET(PlayerCharacter_eventOnHit_Parms, Hit), Z_Construct_UScriptStruct_FHitResult, METADATA_PARAMS(NewProp_Hit_MetaData, ARRAY_COUNT(NewProp_Hit_MetaData)) };
-			static const UE4CodeGen_Private::FStructPropertyParams NewProp_NormalImpulse = { UE4CodeGen_Private::EPropertyClass::Struct, "NormalImpulse", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000080, 1, nullptr, STRUCT_OFFSET(PlayerCharacter_eventOnHit_Parms, NormalImpulse), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(nullptr, 0) };
-#if WITH_METADATA
-			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_OtherComp_MetaData[] = {
-				{ "EditInline", "true" },
-			};
-#endif
-			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_OtherComp = { UE4CodeGen_Private::EPropertyClass::Object, "OtherComp", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000080080, 1, nullptr, STRUCT_OFFSET(PlayerCharacter_eventOnHit_Parms, OtherComp), Z_Construct_UClass_UPrimitiveComponent_NoRegister, METADATA_PARAMS(NewProp_OtherComp_MetaData, ARRAY_COUNT(NewProp_OtherComp_MetaData)) };
-			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_OtherActor = { UE4CodeGen_Private::EPropertyClass::Object, "OtherActor", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000080, 1, nullptr, STRUCT_OFFSET(PlayerCharacter_eventOnHit_Parms, OtherActor), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(nullptr, 0) };
-#if WITH_METADATA
-			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_HitComp_MetaData[] = {
-				{ "EditInline", "true" },
-			};
-#endif
-			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_HitComp = { UE4CodeGen_Private::EPropertyClass::Object, "HitComp", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000080080, 1, nullptr, STRUCT_OFFSET(PlayerCharacter_eventOnHit_Parms, HitComp), Z_Construct_UClass_UPrimitiveComponent_NoRegister, METADATA_PARAMS(NewProp_HitComp_MetaData, ARRAY_COUNT(NewProp_HitComp_MetaData)) };
-			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_Hit,
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_NormalImpulse,
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_OtherComp,
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_OtherActor,
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_HitComp,
-			};
-#if WITH_METADATA
-			static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
-				{ "ModuleRelativePath", "PlayerCharacter.h" },
-			};
-#endif
-			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_APlayerCharacter, "OnHit", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x00C80401, sizeof(PlayerCharacter_eventOnHit_Parms), PropPointers, ARRAY_COUNT(PropPointers), 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
-			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
-		}
-		return ReturnFunction;
-	}
 	UFunction* Z_Construct_UFunction_APlayerCharacter_SlowCharacter()
 	{
 		struct PlayerCharacter_eventSlowCharacter_Parms
@@ -211,7 +156,6 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 				{ &Z_Construct_UFunction_APlayerCharacter_GetFaceDirection, "GetFaceDirection" }, // 2558739570
 				{ &Z_Construct_UFunction_APlayerCharacter_GetMoveDirection, "GetMoveDirection" }, // 637140
 				{ &Z_Construct_UFunction_APlayerCharacter_MovePlayerCharacter, "MovePlayerCharacter" }, // 3188783185
-				{ &Z_Construct_UFunction_APlayerCharacter_OnHit, "OnHit" }, // 3127996034
 				{ &Z_Construct_UFunction_APlayerCharacter_SlowCharacter, "SlowCharacter" }, // 2039650549
 			};
 #if WITH_METADATA
@@ -267,7 +211,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APlayerCharacter, 3586187330);
+	IMPLEMENT_CLASS(APlayerCharacter, 3955211035);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_APlayerCharacter(Z_Construct_UClass_APlayerCharacter, &APlayerCharacter::StaticClass, TEXT("/Script/ggj2018"), TEXT("APlayerCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(APlayerCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
