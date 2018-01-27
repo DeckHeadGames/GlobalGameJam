@@ -40,7 +40,7 @@ protected:
 public:	
 
 	UPROPERTY(EditAnywhere)
-		bool HasFlashlight;p
+		bool HasFlashlight;
 
 	UFUNCTION(BlueprintCallable, Category = "Movement")
 		void SlowCharacter(float time);

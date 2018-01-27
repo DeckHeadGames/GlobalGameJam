@@ -165,6 +165,17 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 				{ "ModuleRelativePath", "PlayerCharacter.h" },
 			};
 #endif
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_HasFlashlight_MetaData[] = {
+				{ "Category", "PlayerCharacter" },
+				{ "ModuleRelativePath", "PlayerCharacter.h" },
+			};
+#endif
+			auto NewProp_HasFlashlight_SetBit = [](void* Obj){ ((APlayerCharacter*)Obj)->HasFlashlight = 1; };
+			static const UE4CodeGen_Private::FBoolPropertyParams NewProp_HasFlashlight = { UE4CodeGen_Private::EPropertyClass::Bool, "HasFlashlight", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000001, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(APlayerCharacter), &UE4CodeGen_Private::TBoolSetBitWrapper<decltype(NewProp_HasFlashlight_SetBit)>::SetBit, METADATA_PARAMS(NewProp_HasFlashlight_MetaData, ARRAY_COUNT(NewProp_HasFlashlight_MetaData)) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_HasFlashlight,
+			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<APlayerCharacter>::IsAbstract,
 			};
@@ -173,7 +184,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00900080u,
 				FuncInfo, ARRAY_COUNT(FuncInfo),
-				nullptr, 0,
+				PropPointers, ARRAY_COUNT(PropPointers),
 				nullptr,
 				&StaticCppClassTypeInfo,
 				nullptr, 0,
@@ -183,7 +194,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APlayerCharacter, 2461053061);
+	IMPLEMENT_CLASS(APlayerCharacter, 939836812);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_APlayerCharacter(Z_Construct_UClass_APlayerCharacter, &APlayerCharacter::StaticClass, TEXT("/Script/ggj2018"), TEXT("APlayerCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(APlayerCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
