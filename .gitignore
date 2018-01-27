@@ -82,3 +82,8 @@ DerivedDataCache/*
 ggj2018/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 *.response
 *.log
+*.ubt
+*.buildmutex
+*.pdb
+*.ini
+*.modules
