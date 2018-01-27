@@ -25,6 +25,7 @@ void APlayerCharacter::BeginPlay()
 	Super::BeginPlay();
 	MoveSpeed = 1000.0f;
 	DashCooldown = 4.0f;
+	TimerFloat = 0.0f;
 	CanDash = true;
 	CanIBeUsed = false;
 	FaceDirection = GetActorForwardVector();
@@ -38,6 +39,7 @@ void APlayerCharacter::Tick(float DeltaTime)
 	if (HasFlashlight) {
 		RayCast();
 	}
+	CheckFlashlight(DeltaTime);
 	const FVector Movement = GetMoveDirection(DeltaTime);
 	FaceDirection = GetFaceDirection();
 
@@ -110,7 +112,7 @@ void APlayerCharacter::ReturnSpeed() {
 
 void APlayerCharacter::StartDash() {
 
-	if (CanDash) {
+	if (CanDash && !HasFlashlight) {
 		FVector DeltaDist = MoveDirection;
 		DeltaDist.Normalize();
 		float modifier;
@@ -141,7 +143,7 @@ void APlayerCharacter::RayCast() {
 		FVector EndTrace = (temp * 1000) + StartTrace;
 		if (GetWorld()->LineTraceSingleByChannel(*HitResult, StartTrace, EndTrace, ECC_Pawn)) {
 			
-			DrawDebugLine(GetWorld(), StartTrace, EndTrace, FColor::Red, true);
+			DrawDebugLine(GetWorld(), StartTrace, EndTrace, FColor::Red, false);
 			
 			
 			if (HitResult->GetActor() != NULL) {
@@ -156,8 +158,15 @@ void APlayerCharacter::RayCast() {
 	}
 }
 
-void APlayerCharacter::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit) {
-
+void APlayerCharacter::CheckFlashlight(float DeltaTime) {
+	TimerFloat += DeltaTime;
+	if (TimerFloat >= 0.25f) {
+		TimerFloat = 0.0f;
+		if (CanIBeUsed) {
+			GEngine->AddOnScreenDebugMessage(-1, 5.0, FColor::Green, TEXT("Can't be used"), true);
+			CanIBeUsed = false;
+		}
+	}
 }
 
 

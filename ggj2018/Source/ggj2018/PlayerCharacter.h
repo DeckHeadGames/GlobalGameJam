@@ -31,12 +31,10 @@ protected:
 	UFUNCTION(BlueprintCallable, Category = "Movement")
 		void MovePlayerCharacter(FVector Movement, FVector FireDirection, float DeltaTime);
 
-	UFUNCTION()
-		void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
-
 	FVector FaceDirection;
 	FVector MoveDirection;
 	float MoveSpeed;
+	float TimerFloat;
 	FTimerHandle SlowTimer;
 	FTimerHandle DashTimer;
 	void ReturnSpeed();
@@ -44,6 +42,7 @@ protected:
 	void StartDash();
 	void RefreshDash();
 	void RayCast();
+	void CheckFlashlight(float DeltaTime);
 
 public:	
 
