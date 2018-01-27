@@ -31,16 +31,30 @@ protected:
 	UFUNCTION(BlueprintCallable, Category = "Movement")
 		void MovePlayerCharacter(FVector Movement, FVector FireDirection, float DeltaTime);
 
+	UFUNCTION()
+		void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
+
 	FVector FaceDirection;
+	FVector MoveDirection;
 	float MoveSpeed;
 	FTimerHandle SlowTimer;
-
+	FTimerHandle DashTimer;
 	void ReturnSpeed();
+	bool CanDash;
+	void StartDash();
+	void RefreshDash();
+	void RayCast();
 
 public:	
 
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		bool HasFlashlight;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		bool CanIBeUsed;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float DashCooldown;
 
 	UFUNCTION(BlueprintCallable, Category = "Movement")
 		void SlowCharacter(float time);

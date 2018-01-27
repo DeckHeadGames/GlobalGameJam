@@ -416,6 +416,8 @@
 		<None Include="..\..\Config\DefaultInput.ini" />
 		<ClCompile Include="..\..\Source\ggj2018\AICharacter.cpp" />
 		<ClInclude Include="..\..\Source\ggj2018\AICharacter.h" />
+		<ClCompile Include="..\..\Source\ggj2018\Flashlight.cpp" />
+		<ClInclude Include="..\..\Source\ggj2018\Flashlight.h" />
 		<None Include="..\..\Source\ggj2018\ggj2018.Build.cs" />
 		<ClCompile Include="..\..\Source\ggj2018\ggj2018.cpp" />
 		<ClInclude Include="..\..\Source\ggj2018\ggj2018.h" />

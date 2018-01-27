@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\ggj2018.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{9CFA865A-1412-47A3-A296-464F29C2FAB6}</UniqueIdentifier>
+			<UniqueIdentifier>{0220C002-269B-4E3C-B9DF-ACBA7BF6AF04}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\ggj2018.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{A9DA601F-A721-4AE8-B5CB-BF7362F9E26C}</UniqueIdentifier>
+			<UniqueIdentifier>{4474DA1B-7E3E-4120-AF44-5E12207568BB}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,12 +28,18 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\ggj2018">
-			<UniqueIdentifier>{7B72669D-8C52-427F-970C-DEF49AD0F54C}</UniqueIdentifier>
+			<UniqueIdentifier>{D8D8C198-FF46-4B65-8A56-08B4FBCE1D5E}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\ggj2018\AICharacter.cpp">
 			<Filter>Source\ggj2018</Filter>
 		</ClCompile >
 		<ClInclude Include="..\..\Source\ggj2018\AICharacter.h">
+			<Filter>Source\ggj2018</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ggj2018\Flashlight.cpp">
+			<Filter>Source\ggj2018</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ggj2018\Flashlight.h">
 			<Filter>Source\ggj2018</Filter>
 		</ClInclude >
 		<None Include="..\..\Source\ggj2018\ggj2018.Build.cs">
