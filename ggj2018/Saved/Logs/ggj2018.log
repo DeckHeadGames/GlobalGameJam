@@ -2100,3 +2100,22 @@ LogInit: Object subsystem initialized
 [2018.01.28-07.25.04:156][788]LogSavePackage: Moving '../../../../../../GitHub/GlobalGameJam/ggj2018/Saved/NewWidgetBlueprint_Auto50AFE0FAB45B5AA23873AF09E4E57F8A2.tmp' to '../../../../../../GitHub/GlobalGameJam/ggj2018/Saved/Autosaves/Game/NewWidgetBlueprint_Auto5.uasset'
 [2018.01.28-07.25.04:157][788]LogSavePackage: Display: Finished SavePackage ../../../../../../GitHub/GlobalGameJam/ggj2018/Saved/Autosaves/Game/NewWidgetBlueprint_Auto5.uasset
 [2018.01.28-07.25.04:157][788]LogFileHelpers: Auto-saving content packages took 0.441
+[2018.01.28-07.28.03:866][228]AssetReimport: New page: Outstanding source content changes 3:28:03 PM
+[2018.01.28-07.28.03:868][228]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/GitHub/GlobalGameJam/ggj2018/Content/UI Assets/cursor.png)
+[2018.01.28-07.28.04:018][229]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/GitHub/GlobalGameJam/ggj2018/Content/UI Assets/logo.png)
+[2018.01.28-07.28.04:395][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/GitHub/GlobalGameJam/ggj2018/Content/UI Assets/logo2.png)
+[2018.01.28-07.28.04:748][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Assets/cursor" FILE="../../../../../../GitHub/GlobalGameJam/ggj2018/Content/UI_Assets/cursor.uasset" SILENT=true
+[2018.01.28-07.28.04:802][231]LogSavePackage: Save=48.53ms
+[2018.01.28-07.28.04:802][231]LogSavePackage: Moving '../../../../../../GitHub/GlobalGameJam/ggj2018/Saved/cursorF510D41A4481F1E6D316518D273B6B8E.tmp' to '../../../../../../GitHub/GlobalGameJam/ggj2018/Content/UI_Assets/cursor.uasset'
+[2018.01.28-07.28.04:804][231]LogSavePackage: Display: Finished SavePackage ../../../../../../GitHub/GlobalGameJam/ggj2018/Content/UI_Assets/cursor.uasset
+[2018.01.28-07.28.04:818][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Assets/logo" FILE="../../../../../../GitHub/GlobalGameJam/ggj2018/Content/UI_Assets/logo.uasset" SILENT=true
+[2018.01.28-07.28.04:964][231]LogSavePackage: Save=134.38ms
+[2018.01.28-07.28.04:964][231]LogSavePackage: Moving '../../../../../../GitHub/GlobalGameJam/ggj2018/Saved/logo40356AFF4E6AE743E5176C8BFFC4A275.tmp' to '../../../../../../GitHub/GlobalGameJam/ggj2018/Content/UI_Assets/logo.uasset'
+[2018.01.28-07.28.04:967][231]LogSavePackage: Display: Finished SavePackage ../../../../../../GitHub/GlobalGameJam/ggj2018/Content/UI_Assets/logo.uasset
+[2018.01.28-07.28.04:982][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Assets/logo2" FILE="../../../../../../GitHub/GlobalGameJam/ggj2018/Content/UI_Assets/logo2.uasset" SILENT=true
+[2018.01.28-07.28.05:097][231]LogSavePackage: Save=113.59ms
+[2018.01.28-07.28.05:097][231]LogSavePackage: Moving '../../../../../../GitHub/GlobalGameJam/ggj2018/Saved/logo2D9F8011B49487C33C39BA3B06154741B.tmp' to '../../../../../../GitHub/GlobalGameJam/ggj2018/Content/UI_Assets/logo2.uasset'
+[2018.01.28-07.28.05:099][231]LogSavePackage: Display: Finished SavePackage ../../../../../../GitHub/GlobalGameJam/ggj2018/Content/UI_Assets/logo2.uasset
+[2018.01.28-07.28.08:251][302]AssetReimport: Importing new asset /Game/UI_Assets/cursor.
+[2018.01.28-07.28.08:251][302]AssetReimport: Importing new asset /Game/UI_Assets/logo.
+[2018.01.28-07.28.08:251][302]AssetReimport: Importing new asset /Game/UI_Assets/logo2.
