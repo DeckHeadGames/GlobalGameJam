@@ -1,0 +1,1207 @@
+﻿Log file open, 01/27/18 15:54:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ggj2018
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(581089761) SRandInit(581089762).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182849
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Binaries/Win64/UE4Editor-ggj2018-5427.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.27-23.54.28:012][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-23.54.28:012][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.27-23.54.28:026][  0]LogInit: Computer: DESKTOP-6PO0U0M
+[2018.01.27-23.54.28:027][  0]LogInit: User: Treym
+[2018.01.27-23.54.28:027][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.27-23.54.28:027][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.01.27-23.54.28:027][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.01.27-23.54.28:027][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.27-23.54.28:027][  0]LogMemory: Process Physical Memory: 277.62 MB used, 277.62 MB peak
+[2018.01.27-23.54.28:027][  0]LogMemory: Process Virtual Memory: 276.30 MB used, 276.30 MB peak
+[2018.01.27-23.54.28:027][  0]LogMemory: Physical Memory: 5043.61 MB used,  11295.01 MB free, 16338.62 MB total
+[2018.01.27-23.54.28:027][  0]LogMemory: Virtual Memory: 734.30 MB used,  11295.01 MB free, 134217728.00 MB total
+[2018.01.27-23.54.28:785][  0]LogInit: Using OS detected language (en-US).
+[2018.01.27-23.54.28:785][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.27-23.54.28:788][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.27-23.54.29:292][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.27-23.54.29:620][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.27-23.54.29:665][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (Feature Level 11_0)
+[2018.01.27-23.54.29:665][  0]LogD3D11RHI:       8105/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.27-23.54.29:667][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.27-23.54.29:667][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.27-23.54.29:667][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.27-23.54.29:676][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.27-23.54.29:676][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.27-23.54.29:676][  0]LogWindows: EnumDisplayDevices:
+[2018.01.27-23.54.29:677][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (P:1 D:1)
+[2018.01.27-23.54.29:677][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (P:0 D:1)
+[2018.01.27-23.54.29:677][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (P:0 D:0)
+[2018.01.27-23.54.29:677][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (P:0 D:0)
+[2018.01.27-23.54.29:677][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.27-23.54.29:677][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 with Max-Q Design
+[2018.01.27-23.54.29:677][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.27-23.54.29:677][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.27-23.54.29:677][  0]LogRHI: Texture pool is 5673 MB (70% of 8105 MB)
+[2018.01.27-23.54.29:705][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.27-23.54.29:717][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.27-23.54.29:810][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Intermediate/Shaders/WorkingDirectory/7560/).
+[2018.01.27-23.54.29:810][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Treym/AppData/Local/Temp/UnrealShaderWorkingDir/7195045341C16068DAC44FB623559DB6/'.
+[2018.01.27-23.54.29:810][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.27-23.54.31:011][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.27-23.54.31:074][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.27-23.54.31:142][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.27-23.54.31:214][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.27-23.54.31:280][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.27-23.54.31:348][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.27-23.54.31:414][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.27-23.54.31:478][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.27-23.54.31:534][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.27-23.54.31:597][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.27-23.54.31:665][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.27-23.54.31:730][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.27-23.54.31:794][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.27-23.54.31:863][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.27-23.54.31:992][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.27-23.54.31:992][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.27-23.54.32:056][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.27-23.54.32:106][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.27-23.54.32:213][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.27-23.54.32:245][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.27-23.54.32:308][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.27-23.54.32:379][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.27-23.54.32:444][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.27-23.54.32:505][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.27-23.54.32:505][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.27-23.54.33:068][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.27-23.54.33:150][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Treym/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-23.54.33:151][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Treym/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.27-23.54.33:151][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.27-23.54.33:151][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.27-23.54.33:151][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.27-23.54.33:151][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.27-23.54.33:171][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.27-23.54.33:183][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Treym/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.27-23.54.33:195][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.27-23.54.33:195][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.27-23.54.33:196][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-23.54.33:196][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-23.54.33:638][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-23.54.34:075][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.27-23.54.34:128][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.27-23.54.34:128][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.27-23.54.34:128][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.27-23.54.34:128][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.27-23.54.34:128][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.27-23.54.34:167][  0]LogNetVersion: ggj2018 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4219683102)
+[2018.01.27-23.54.34:369][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.01.27-23.54.34:966][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.078398 seconds
+[2018.01.27-23.54.34:971][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.27-23.54.34:971][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.27-23.54.34:971][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.27-23.54.35:038][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.27-23.54.38:393][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.27-23.54.38:441][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.27-23.54.39:331][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.27-23.54.39:863][  0]SourceControl: Source control is disabled
+[2018.01.27-23.54.39:863][  0]SourceControl: Source control is disabled
+[2018.01.27-23.54.39:926][  0]SourceControl: Source control is disabled
+[2018.01.27-23.54.39:989][  0]SourceControl: Source control is disabled
+[2018.01.27-23.54.41:018][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.27-23.54.41:354][  0]LogOcInput: OculusInput pre-init called
+[2018.01.27-23.54.41:683][  0]LogEngine: Initializing Engine...
+[2018.01.27-23.54.41:685][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.27-23.54.41:952][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.27-23.54.41:952][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.27-23.54.42:113][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-23.54.42:141][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-23.54.42:206][  0]LogInit: FAudioDevice initialized.
+[2018.01.27-23.54.42:295][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/Treym/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-23.54.42:312][  0]LogInit: Texture streaming: Enabled
+[2018.01.27-23.54.42:441][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.27-23.54.42:605][  0]LogInit: Transaction tracking system initialized
+[2018.01.27-23.54.42:996][  0]BlueprintLog: New page: Editor Load
+[2018.01.27-23.54.44:130][  0]LocalizationService: Localization service is disabled
+[2018.01.27-23.54.45:056][  0]LogConsoleResponse: Display: 
+[2018.01.27-23.54.45:274][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.27-23.54.45:274][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.27-23.54.45:274][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.27-23.54.45:281][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/' took 0.01s
+[2018.01.27-23.54.46:771][  0]SourceControl: Source control is disabled
+[2018.01.27-23.54.46:771][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-23.54.46:772][  0]LightingResults: New page: Lighting Build
+[2018.01.27-23.54.46:822][  0]MapCheck: New page: Map Check
+[2018.01.27-23.54.46:822][  0]LightingResults: New page: Lighting Build
+[2018.01.27-23.54.47:098][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.27-23.54.47:106][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-23.54.47:118][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-23.54.47:173][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.682ms to complete.
+[2018.01.27-23.54.47:173][  0]LogFileHelpers: Loading map 'Template_Default' took 0.402
+[2018.01.27-23.54.47:375][  0]LogCollectionManager: Loaded 0 collections in 0.001733 seconds
+[2018.01.27-23.54.47:483][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Collections/' took 0.01s
+[2018.01.27-23.54.47:483][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Developers/Treym/Collections/' took 0.01s
+[2018.01.27-23.54.47:483][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Collections/' took 0.01s
+[2018.01.27-23.54.47:483][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.27-23.54.47:495][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2367 classes and 521 folders.
+[2018.01.27-23.54.47:583][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.01.27-23.54.47:628][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.01.27-23.54.47:681][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.27-23.54.47:844][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-23.54.47:846][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.27-23.54.47:852][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.27-23.54.47:975][  0]LogRenderer: Reallocating scene render targets to support 688x436 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-23.54.48:157][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.27-23.54.48:157][  0]LogLoad: (Engine Initialization) Total time: 23.82 seconds
+[2018.01.27-23.54.48:157][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.27-23.54.48:157][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.27-23.54.48:157][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.27-23.54.48:176][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.27-23.54.48:197][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.27-23.54.48:253][  1]LogAssetRegistry: Asset discovery search completed in 13.9061 seconds
+[2018.01.27-23.54.48:255][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.27-23.54.48:255][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.01.27-23.54.52:249][158]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-23.55.00:286][460]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-23.55.01:431][460]LogTexture: Display: Building textures: HauntedFloor2 (AutoDXT, 1024X1024)
+[2018.01.27-23.55.01:431][460]LogTexture: Display: Building textures: cobweb_d (BGRA8, 2550X2424)
+[2018.01.27-23.55.01:431][460]LogTexture: Display: Building textures: cobweb_a (BGRA8, 2550X2424)
+[2018.01.27-23.55.01:431][460]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.01.27-23.55.01:524][460]LogStaticMesh: Building static mesh CobbWebb1...
+[2018.01.27-23.55.01:525][460]LogStaticMesh: Built static mesh [0.00s] /Game/_TimMaterials/Cobweb/CobbWebb1.CobbWebb1
+[2018.01.27-23.55.01:571][460]LogStaticMesh: Building static mesh SkinnyFloor...
+[2018.01.27-23.55.01:577][460]LogStaticMesh: Built static mesh [0.01s] /Game/_TimMaterials/Floor/SkinnyFloor.SkinnyFloor
+[2018.01.27-23.55.01:581][460]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.01.27-23.55.01:669][460]LogAIModule: Creating AISystem for world MatTest
+[2018.01.27-23.55.01:693][460]Cmd: MAP LOAD FILE="../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/_TimMaterials/MatTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-23.55.01:693][460]LightingResults: New page: Lighting Build
+[2018.01.27-23.55.01:694][460]LoadErrors: New page: Loading map: MatTest.umap
+[2018.01.27-23.55.01:694][460]MapCheck: New page: Map Check
+[2018.01.27-23.55.01:694][460]LightingResults: New page: Lighting Build
+[2018.01.27-23.55.01:711][460]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-23.55.01:768][460]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-23.55.01:849][460]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.201ms to complete.
+[2018.01.27-23.55.01:849][460]LogFileHelpers: Loading map 'MatTest' took 0.157
+[2018.01.27-23.55.40:312][703]LogActorFactory: Actor Factory created SkinnyFloor
+[2018.01.27-23.55.41:424][740]LogActorFactory: Actor Factory created SkinnyFloor
+[2018.01.27-23.55.43:660][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-23.55.45:412][877]Cmd: DELETE
+[2018.01.27-23.55.45:412][877]Cmd: ACTOR DELETE
+[2018.01.27-23.55.45:414][877]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-23.55.45:443][877]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.01.27-23.55.46:893][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkinnyFloor2)
+[2018.01.27-23.55.48:054][976]Cmd: DELETE
+[2018.01.27-23.55.48:054][976]Cmd: ACTOR DELETE
+[2018.01.27-23.55.48:056][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-23.55.48:067][976]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.01.27-23.55.49:910][  5]LogSavePackage: Save=61.18ms
+[2018.01.27-23.55.49:910][  5]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/MatTestC2A19BA24009EE4275ECB1AB47790A09.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/_TimMaterials/MatTest.umap'
+[2018.01.27-23.55.49:917][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/_TimMaterials/MatTest.umap
+[2018.01.27-23.55.49:993][  5]LogSavePackage: Save=17.81ms
+[2018.01.27-23.55.49:993][  5]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/MatTest_BuiltData594A7DF240387E4C862A33A5D0F658CC.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/_TimMaterials/MatTest_BuiltData.uasset'
+[2018.01.27-23.55.49:995][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/_TimMaterials/MatTest_BuiltData.uasset
+[2018.01.27-23.55.54:090][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkinnyFloor)
+[2018.01.27-23.56.12:540][700]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.27-23.56.12:563][700]Cmd: MAP LOAD FILE="../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-23.56.12:563][700]LightingResults: New page: Lighting Build
+[2018.01.27-23.56.12:564][700]LoadErrors: New page: Loading map: AIPlayground.umap
+[2018.01.27-23.56.12:565][700]MapCheck: New page: Map Check
+[2018.01.27-23.56.12:565][700]LightingResults: New page: Lighting Build
+[2018.01.27-23.56.12:586][700]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-23.56.12:640][700]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-23.56.12:712][700]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.281ms to complete.
+[2018.01.27-23.56.12:712][700]LogFileHelpers: Loading map 'AIPlayground' took 0.150
+[2018.01.27-23.56.28:432][187]Cmd: TRANSACTION UNDO
+[2018.01.27-23.56.28:432][187]LogEditorTransaction: Undo Create Actors
+[2018.01.27-23.56.28:486][187]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-23.56.29:703][215]LogStaticMesh: Building static mesh HauntedHouseFloor...
+[2018.01.27-23.56.29:775][215]LogStaticMesh: Built static mesh [0.07s] /Game/_TimMaterials/HauntedHouseFloor.HauntedHouseFloor
+[2018.01.27-23.56.29:826][215]LogActorFactory: Actor Factory created HauntedHouseFloor
+[2018.01.27-23.56.30:854][241]LogActorFactory: Actor Factory created HauntedHouseFloor
+[2018.01.27-23.56.36:525][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-23.56.37:948][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-23.56.38:664][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HauntedHouseFloor)
+[2018.01.27-23.56.40:214][580]Cmd: DELETE
+[2018.01.27-23.56.40:214][580]Cmd: ACTOR DELETE
+[2018.01.27-23.56.40:216][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-23.56.40:244][580]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.01.27-23.56.42:828][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-23.56.58:845][119]Cmd: TRANSACTION UNDO
+[2018.01.27-23.56.58:845][119]LogEditorTransaction: Undo Replace component used material
+[2018.01.27-23.56.59:367][132]Cmd: TRANSACTION UNDO
+[2018.01.27-23.56.59:367][132]LogEditorTransaction: Undo Replace component used material
+[2018.01.27-23.57.05:219][290]LogActorFactory: Actor Factory created HauntedHouseFloor
+[2018.01.27-23.57.05:958][314]LogActorFactory: Actor Factory created HauntedHouseFloor
+[2018.01.27-23.58.20:225][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-23.58.20:250][581]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.01.27-23.59.06:357][147]LogActorFactory: Actor Factory created couch
+[2018.01.27-23.59.07:667][186]LogActorFactory: Actor Factory created couch
+[2018.01.27-23.59.08:353][207]LogActorFactory: Actor Factory created couch
+[2018.01.27-23.59.46:498][460]LogSavePackage: Save=204.60ms
+[2018.01.27-23.59.46:498][460]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground10376A114E75A345278565AFA0886EC7.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.27-23.59.46:504][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.00.32:949][166]LogSavePackage: Save=183.27ms
+[2018.01.28-00.00.32:949][166]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlaygroundB5FA32154E173EA4275D03B2475DE303.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.28-00.00.32:953][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.01.17:314][840]LogSavePackage: Save=187.03ms
+[2018.01.28-00.01.17:314][840]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground590297A747A9C9BFADD31A9B50750B46.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.28-00.01.17:320][840]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.01.20:261][916]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.01.20:319][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.01.20:319][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.01.20:319][916]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:01:20 AM)
+[2018.01.28-00.01.20:319][916]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.01.20:326][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006183s)
+[2018.01.28-00.01.20:326][916]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.01.20:327][916]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2018.01.28-00.01.20:327][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.007448s)
+[2018.01.28-00.01.20:359][916]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.01.20:413][916]LogInit: FAudioDevice initialized.
+[2018.01.28-00.01.20:549][916]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.01.20:554][916]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.01.20
+[2018.01.28-00.01.20:557][916]LogWorld: Bringing up level for play took: 0.005936
+[2018.01.28-00.01.20:612][916]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.01.28-00.01.20:618][916]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.073
+[2018.01.28-00.01.20:619][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.01.20:661][916]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-00.02.10:258][292]LogNet: Browse: /Game/Main_Map
+[2018.01.28-00.02.10:294][292]LogLoad: LoadMap: /Game/Main_Map
+[2018.01.28-00.02.10:728][292]LogAIModule: Creating AISystem for world Main_Map
+[2018.01.28-00.02.10:729][292]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.02.10:730][292]LogWorld: Bringing World /Game/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 60) at 2018.01.27-16.02.10
+[2018.01.28-00.02.10:731][292]LogWorld: Bringing up level for play took: 0.001477
+[2018.01.28-00.02.10:731][292]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.28-00.02.10:732][292]LogLoad: Took 0.438400 seconds to LoadMap(/Game/Main_Map)
+[2018.01.28-00.02.12:778][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.02.12:845][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.03.25:142][733]LogActorFactory: Actor Factory created godray
+[2018.01.28-00.03.25:826][774]LogActorFactory: Actor Factory created godray
+[2018.01.28-00.03.48:879][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.28-00.03.48:889][915]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.01.28-00.04.42:760][525]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2018.01.28-00.04.43:563][525]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-00.04.43:646][525]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-00.04.46:473][631]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-00.06.16:617][926]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.06.18:013][942]LogSavePackage: Save=88.81ms
+[2018.01.28-00.06.18:013][942]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP8A9F19FC4CF0CD44F499BAAA552D81D3.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.06.18:017][942]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.06.28:035][273]LogSavePackage: Save=84.91ms
+[2018.01.28-00.06.28:035][273]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP5144489B4B1112E6EB5CC29B6CD7F8AC.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.06.28:039][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.08.00:161][207]LogEditorTransaction: Undo Add New Function
+[2018.01.28-00.08.00:509][213]LogEditorTransaction: Undo Add Node
+[2018.01.28-00.10.26:562][821]LogSavePackage: Save=91.10ms
+[2018.01.28-00.10.26:562][821]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BPAC4FFA2C4E7776D26525B4B7DFE0825F.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.10.26:574][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.10.27:887][871]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.10.29:291][889]LogSavePackage: Save=88.97ms
+[2018.01.28-00.10.29:291][889]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP3F43F64D4874CEC486005D93D52CFCE7.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.10.29:293][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.10.36:193][172]LogSavePackage: Save=242.48ms
+[2018.01.28-00.10.36:193][172]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground090F503A4783CA4DFBEF2287002BD945.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.28-00.10.36:197][172]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.10.51:632][323]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.11.16:314][251]LogSavePackage: Save=97.53ms
+[2018.01.28-00.11.16:315][251]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP9D84E21147375F83E4E0EBA31E327390.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.11.16:318][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.11.17:455][286]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.11.19:030][309]LogSavePackage: Save=91.49ms
+[2018.01.28-00.11.19:030][309]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP144A89AB48786467D11A6ABCC3A55EEB.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.11.19:032][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.11.19:751][334]LogSavePackage: Save=82.89ms
+[2018.01.28-00.11.19:751][334]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP77E74A924F049F05C40967B18840DD3C.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.11.19:753][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.12.02:598][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flashlight/Flashlight_BP" FILE="../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Flashlight/Flashlight_BP.uasset" SILENT=true
+[2018.01.28-00.12.02:664][881]LogSavePackage: Save=46.47ms
+[2018.01.28-00.12.02:664][881]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Flashlight_BPD7B80CC44C0DE570C952F8BBEA61899C.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Flashlight/Flashlight_BP.uasset'
+[2018.01.28-00.12.02:668][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Flashlight/Flashlight_BP.uasset
+[2018.01.28-00.13.35:660][226]BlueprintLog: New page: Compile Flashlight_BP
+[2018.01.28-00.13.36:934][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flashlight/Flashlight_BP" FILE="../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Flashlight/Flashlight_BP.uasset" SILENT=true
+[2018.01.28-00.13.36:990][247]LogSavePackage: Save=45.92ms
+[2018.01.28-00.13.36:990][247]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Flashlight_BP1CFA9EEE41741FD26BA68592850F1E68.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Flashlight/Flashlight_BP.uasset'
+[2018.01.28-00.13.36:995][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Flashlight/Flashlight_BP.uasset
+[2018.01.28-00.13.38:401][292]LogSavePackage: Save=239.76ms
+[2018.01.28-00.13.38:401][292]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlaygroundEEEEEBBB4AB3E4BE03AA44852BC30FE5.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.28-00.13.38:405][292]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.14.20:329][135]LogSavePackage: Save=81.39ms
+[2018.01.28-00.14.20:329][135]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP9C17EEC545335F7ECF84B091B644423F.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.14.20:330][135]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.14.26:735][422]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.28-00.14.26:767][422]Candidate modules for hot reload:
+[2018.01.28-00.14.26:767][422]  ggj2018
+[2018.01.28-00.14.26:767][422]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe ggj2018 -ModuleWithSuffix ggj2018 2611 Win64 Development -editorrecompile -canskiplink "C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/ggj2018.uproject" ]
+[2018.01.28-00.14.26:774][422]Warning: Starting HotReload took  0.0s.
+[2018.01.28-00.14.28:414][470]CompilerResultsLog: New page: Compilation - Jan 27, 2018, 8:14:28 AM
+[2018.01.28-00.14.28:415][470]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.28-00.14.28:415][470]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.28-00.14.28:415][470]CompilerResultsLog: Target is up to date
+[2018.01.28-00.14.28:415][470]CompilerResultsLog: Total build time: 1.27 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.28-00.14.28:415][470]LogMainFrame: MainFrame: Module compiling took 1.680 seconds
+[2018.01.28-00.14.28:771][470]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2369 classes and 525 folders.
+[2018.01.28-00.14.28:771][470]Display: HotReload took  2.0s.
+[2018.01.28-00.14.30:596][532]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.14.30:633][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.14.30:633][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.14.30:633][532]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:14:30 AM)
+[2018.01.28-00.14.30:633][532]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.14.30:641][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007679s)
+[2018.01.28-00.14.30:642][532]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.14.30:642][532]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.01.28-00.14.30:642][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.008889s)
+[2018.01.28-00.14.30:721][532]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.14.30:779][532]LogInit: FAudioDevice initialized.
+[2018.01.28-00.14.30:891][532]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.14.30:895][532]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.14.30
+[2018.01.28-00.14.30:897][532]LogWorld: Bringing up level for play took: 0.005323
+[2018.01.28-00.14.30:902][532]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.211
+[2018.01.28-00.14.30:903][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.15.05:004][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.15.05:068][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.15.32:616][111]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.15.38:859][280]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.16.08:832][376]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.16.09:886][382]LogSavePackage: Save=93.19ms
+[2018.01.28-00.16.09:886][382]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP2F29265D4C0701D703CF01B9E7B3E8D9.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.16.09:890][382]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.16.18:414][682]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.16.19:802][695]LogSavePackage: Save=97.20ms
+[2018.01.28-00.16.19:802][695]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BPB7951676460A6539C15D86B1633BD56F.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.16.19:806][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.16.23:083][820]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.16.23:104][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.16.23:105][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.16.23:105][820]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:16:23 AM)
+[2018.01.28-00.16.23:105][820]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.16.23:112][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007018s)
+[2018.01.28-00.16.23:113][820]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.16.23:113][820]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.01.28-00.16.23:113][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.008015s)
+[2018.01.28-00.16.23:157][820]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.16.23:212][820]LogInit: FAudioDevice initialized.
+[2018.01.28-00.16.23:323][820]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.16.23:328][820]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.16.23
+[2018.01.28-00.16.23:330][820]LogWorld: Bringing up level for play took: 0.005818
+[2018.01.28-00.16.23:335][820]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.643
+[2018.01.28-00.16.23:335][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.16.24:082][849]LogCharacterMovement: AICharacter_BP4_8 is stuck and failed to move! Velocity: X=598.05 Y=48.32 Z=0.00 Location: X=1950.00 Y=-1900.00 Z=-72.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:11.625 Actor:HauntedHouseFloor_5 Component:StaticMeshComponent0 BoneName:None (26 other events since notify)
+[2018.01.28-00.16.25:090][892]LogCharacterMovement: AICharacter_BP4_8 is stuck and failed to move! Velocity: X=598.05 Y=48.32 Z=0.00 Location: X=1950.00 Y=-1900.00 Z=-72.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:11.625 Actor:HauntedHouseFloor_5 Component:StaticMeshComponent0 BoneName:None (42 other events since notify)
+[2018.01.28-00.16.26:110][935]LogCharacterMovement: AICharacter_BP4_8 is stuck and failed to move! Velocity: X=598.05 Y=48.32 Z=0.00 Location: X=1950.00 Y=-1900.00 Z=-72.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:11.625 Actor:HauntedHouseFloor_5 Component:StaticMeshComponent0 BoneName:None (42 other events since notify)
+[2018.01.28-00.16.27:132][978]LogCharacterMovement: AICharacter_BP4_8 is stuck and failed to move! Velocity: X=598.05 Y=48.32 Z=0.00 Location: X=1950.00 Y=-1900.00 Z=-72.00 Normal: X=-0.01 Y=-0.06 Z=-1.00 PenetrationDepth:74.125 Actor:PlayerCharacter_BP2_2 Component:Cone BoneName:None (42 other events since notify)
+[2018.01.28-00.16.28:135][ 21]LogCharacterMovement: AICharacter_BP4_8 is stuck and failed to move! Velocity: X=598.05 Y=48.32 Z=0.00 Location: X=1950.00 Y=-1900.00 Z=-72.00 Normal: X=-0.01 Y=-0.06 Z=-1.00 PenetrationDepth:74.125 Actor:PlayerCharacter_BP2_2 Component:Cone BoneName:None (42 other events since notify)
+[2018.01.28-00.16.29:143][ 64]LogCharacterMovement: AICharacter_BP4_8 is stuck and failed to move! Velocity: X=67.98 Y=596.14 Z=0.00 Location: X=1950.00 Y=-1900.00 Z=-72.00 Normal: X=-0.01 Y=-0.06 Z=-1.00 PenetrationDepth:74.125 Actor:PlayerCharacter_BP2_2 Component:Cone BoneName:None (38 other events since notify)
+[2018.01.28-00.16.30:146][107]LogCharacterMovement: AICharacter_BP4_8 is stuck and failed to move! Velocity: X=67.98 Y=596.14 Z=0.00 Location: X=1950.00 Y=-1900.00 Z=-72.00 Normal: X=-0.01 Y=-0.06 Z=-1.00 PenetrationDepth:74.125 Actor:PlayerCharacter_BP2_2 Component:Cone BoneName:None (42 other events since notify)
+[2018.01.28-00.16.31:156][151]LogCharacterMovement: AICharacter_BP4_8 is stuck and failed to move! Velocity: X=67.98 Y=596.14 Z=0.00 Location: X=1950.00 Y=-1900.00 Z=-72.00 Normal: X=-0.01 Y=-0.06 Z=-1.00 PenetrationDepth:74.125 Actor:PlayerCharacter_BP2_2 Component:Cone BoneName:None (43 other events since notify)
+[2018.01.28-00.16.32:176][195]LogCharacterMovement: AICharacter_BP4_8 is stuck and failed to move! Velocity: X=67.98 Y=596.14 Z=0.00 Location: X=1950.00 Y=-1900.00 Z=-72.00 Normal: X=-0.01 Y=-0.06 Z=-1.00 PenetrationDepth:74.125 Actor:PlayerCharacter_BP2_2 Component:Cone BoneName:None (43 other events since notify)
+[2018.01.28-00.16.33:040][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.16.33:099][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.17.14:480][775]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.17.18:269][846]LogSavePackage: Save=92.73ms
+[2018.01.28-00.17.18:270][846]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BPB0A188284FC568ED54DE3C9EAA141D0D.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.17.18:273][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.17.44:401][785]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.17.45:730][799]LogSavePackage: Save=90.80ms
+[2018.01.28-00.17.45:731][799]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP7D6FE943436B9D8512B86FAD33BB00D4.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.17.45:734][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.17.49:527][958]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.17.49:550][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.17.49:551][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.17.49:551][958]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:17:49 AM)
+[2018.01.28-00.17.49:551][958]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.17.49:557][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006374s)
+[2018.01.28-00.17.49:558][958]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.17.49:558][958]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.01.28-00.17.49:558][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.007423s)
+[2018.01.28-00.17.49:601][958]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.17.49:660][958]LogInit: FAudioDevice initialized.
+[2018.01.28-00.17.49:768][958]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.17.49:774][958]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.17.49
+[2018.01.28-00.17.49:776][958]LogWorld: Bringing up level for play took: 0.006601
+[2018.01.28-00.17.49:782][958]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 1.091
+[2018.01.28-00.17.49:783][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.18.03:243][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.18.03:306][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.18.41:420][977]LogSavePackage: Save=92.07ms
+[2018.01.28-00.18.41:420][977]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP8CED61D2416202A5134B50BE0132AB0C.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.18.41:425][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.18.42:834][ 21]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.18.45:084][ 61]LogSavePackage: Save=93.68ms
+[2018.01.28-00.18.45:084][ 61]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP1BD188A44F312987406D73BA452BDC19.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.18.45:086][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.18.48:041][184]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.18.48:065][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.18.48:065][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.18.48:065][184]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:18:48 AM)
+[2018.01.28-00.18.48:065][184]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.18.48:071][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005686s)
+[2018.01.28-00.18.48:072][184]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.18.48:072][184]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2018.01.28-00.18.48:072][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.006657s)
+[2018.01.28-00.18.48:111][184]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.18.48:166][184]LogInit: FAudioDevice initialized.
+[2018.01.28-00.18.48:275][184]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.18.48:280][184]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.18.48
+[2018.01.28-00.18.48:281][184]LogWorld: Bringing up level for play took: 0.005656
+[2018.01.28-00.18.48:289][184]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.403
+[2018.01.28-00.18.48:290][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.19.06:259][942]LogCharacterMovement: AICharacter_BP3_5 is stuck and failed to move! Velocity: X=-48.74 Y=-44.48 Z=0.00 Location: X=2134.57 Y=-675.12 Z=-58.21 Normal: X=0.71 Y=0.71 Z=0.03 PenetrationDepth:0.000 Actor:PlayerCharacter_BP_2 Component:Cone BoneName:None (0 other events since notify)
+[2018.01.28-00.19.07:584][998]LogCharacterMovement: AICharacter_BP3_5 is stuck and failed to move! Velocity: X=-447.43 Y=-399.76 Z=0.00 Location: X=1924.18 Y=-875.92 Z=-58.22 Normal: X=0.90 Y=0.42 Z=0.11 PenetrationDepth:0.000 Actor:PlayerCharacter_BP_2 Component:Cone BoneName:None (0 other events since notify)
+[2018.01.28-00.19.15:368][328]LogCharacterMovement: PlayerCharacter_BP2_2 is stuck and failed to move! Velocity: X=-17.18 Y=128.38 Z=0.00 Location: X=754.50 Y=-1798.55 Z=-48.31 Normal: X=-0.24 Y=-0.80 Z=0.56 PenetrationDepth:23.299 Actor:PlayerCharacter_BP_2 Component:Cone BoneName:None (0 other events since notify)
+[2018.01.28-00.19.24:808][727]LogCharacterMovement: AICharacter_BP_3 is stuck and failed to move! Velocity: X=-33.58 Y=-43.32 Z=0.00 Location: X=824.68 Y=-1099.86 Z=-58.20 Normal: X=0.94 Y=0.33 Z=0.08 PenetrationDepth:0.000 Actor:PlayerCharacter_BP_2 Component:Cone BoneName:None (0 other events since notify)
+[2018.01.28-00.19.26:371][794]LogCharacterMovement: AICharacter_BP_3 is stuck and failed to move! Velocity: X=-213.45 Y=-154.20 Z=0.00 Location: X=1180.31 Y=-914.10 Z=-58.23 Normal: X=0.58 Y=-0.81 Z=0.07 PenetrationDepth:0.000 Actor:PlayerCharacter_BP_2 Component:Cone BoneName:None (7 other events since notify)
+[2018.01.28-00.19.32:797][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.19.32:859][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.20.34:428][897]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.01.28-00.20.34:428][897]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.01.28-00.20.34:428][897]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.01.28-00.20.34:428][897]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.01.28-00.20.34:428][897]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.01.28-00.20.34:428][897]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.01.28-00.20.34:428][897]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.01.28-00.20.34:428][897]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.01.28-00.20.35:836][948]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.20.37:171][964]LogSavePackage: Save=90.62ms
+[2018.01.28-00.20.37:171][964]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP610C41F8461599DB80EF63BFCF77903F.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.20.37:175][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.20.49:197][376]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.20.50:622][395]LogSavePackage: Save=92.21ms
+[2018.01.28-00.20.50:622][395]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BPD5BEC61C42780B4DEC978C86091CC866.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.20.50:626][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.21.22:180][724]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.21.22:203][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.21.22:203][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.21.22:204][724]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:21:22 AM)
+[2018.01.28-00.21.22:204][724]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.21.22:211][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006979s)
+[2018.01.28-00.21.22:211][724]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.21.22:212][724]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2018.01.28-00.21.22:212][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.008188s)
+[2018.01.28-00.21.22:256][724]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.21.22:310][724]LogInit: FAudioDevice initialized.
+[2018.01.28-00.21.22:420][724]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.21.22:425][724]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.21.22
+[2018.01.28-00.21.22:427][724]LogWorld: Bringing up level for play took: 0.006907
+[2018.01.28-00.21.22:432][724]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.259
+[2018.01.28-00.21.22:432][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.22.00:900][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.22.00:964][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.23.04:050][686]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.23.05:427][701]LogSavePackage: Save=97.27ms
+[2018.01.28-00.23.05:427][701]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP7BDB7DDF4819568E93FFF8812AA3F3D4.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.23.05:431][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.23.19:093][205]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.23.20:700][228]LogSavePackage: Save=92.72ms
+[2018.01.28-00.23.20:700][228]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BPCC69FF3C406E14717A1BACA53A25F584.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.23.20:704][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.23.23:166][337]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.23.23:197][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.23.23:197][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.23.23:197][337]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:23:23 AM)
+[2018.01.28-00.23.23:197][337]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.23.23:204][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006728s)
+[2018.01.28-00.23.23:204][337]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.23.23:205][337]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.01.28-00.23.23:205][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.008121s)
+[2018.01.28-00.23.23:246][337]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.23.23:300][337]LogInit: FAudioDevice initialized.
+[2018.01.28-00.23.23:408][337]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.23.23:413][337]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.23.23
+[2018.01.28-00.23.23:415][337]LogWorld: Bringing up level for play took: 0.005253
+[2018.01.28-00.23.23:419][337]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.728
+[2018.01.28-00.23.23:420][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.23.51:030][510]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.28-00.23.55:222][689]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.28-00.23.58:666][836]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.28-00.24.05:908][144]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.28-00.24.25:356][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.24.25:418][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.25.26:611][348]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.28-00.25.26:633][348]Candidate modules for hot reload:
+[2018.01.28-00.25.26:633][348]  ggj2018
+[2018.01.28-00.25.26:634][348]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe ggj2018 -ModuleWithSuffix ggj2018 9652 Win64 Development -editorrecompile -canskiplink "C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/ggj2018.uproject" ]
+[2018.01.28-00.25.26:638][348]Warning: Starting HotReload took  0.0s.
+[2018.01.28-00.25.46:417][736]CompilerResultsLog: New page: Compilation - Jan 27, 2018, 8:25:46 AM
+[2018.01.28-00.25.46:417][736]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.28-00.25.46:417][736]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.28-00.25.46:418][736]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.01.28-00.25.46:418][736]CompilerResultsLog: PlayerCharacter.cpp
+[2018.01.28-00.25.46:418][736]CompilerResultsLog: [2/3] Link UE4Editor-ggj2018-9652.dll
+[2018.01.28-00.25.46:418][736]CompilerResultsLog: [3/3] Link UE4Editor-ggj2018-9652.lib
+[2018.01.28-00.25.46:418][736]CompilerResultsLog:    Creating library C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-9652.lib and object C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-9652.exp
+[2018.01.28-00.25.46:418][736]CompilerResultsLog:    Creating library C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-9652.suppressed.lib and object C:\Users\Treym\Desktop\GlobalGameJam\GlobalGameJam\ggj2018\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ggj2018-9652.suppressed.exp
+[2018.01.28-00.25.46:418][736]CompilerResultsLog: Total build time: 19.29 seconds (Local executor: 17.79 seconds)
+[2018.01.28-00.25.46:418][736]LogMainFrame: MainFrame: Module compiling took 19.806 seconds
+[2018.01.28-00.25.46:571][736]LogContentBrowser: Native class hierarchy updated for 'ggj2018' in 0.0007 seconds. Added 4 classes and 2 folders.
+[2018.01.28-00.25.46:573][736]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.01.28-00.25.47:140][736]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2369 classes and 525 folders.
+[2018.01.28-00.25.47:140][736]Display: HotReload took 20.5s.
+[2018.01.28-00.25.54:156][758]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.25.54:186][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.25.54:186][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.25.54:186][758]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:25:54 AM)
+[2018.01.28-00.25.54:186][758]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.25.54:195][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008409s)
+[2018.01.28-00.25.54:196][758]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.25.54:196][758]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.01.28-00.25.54:196][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.009802s)
+[2018.01.28-00.25.54:292][758]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.25.54:360][758]LogInit: FAudioDevice initialized.
+[2018.01.28-00.25.54:474][758]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.25.54:481][758]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.25.54
+[2018.01.28-00.25.54:483][758]LogWorld: Bringing up level for play took: 0.008306
+[2018.01.28-00.25.54:490][758]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.202
+[2018.01.28-00.25.54:490][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.26.34:707][366]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.28-00.27.12:187][962]LogNet: Browse: /Game/Main_Map
+[2018.01.28-00.27.12:209][962]LogLoad: LoadMap: /Game/Main_Map
+[2018.01.28-00.27.12:303][962]LogAIModule: Creating AISystem for world Main_Map
+[2018.01.28-00.27.12:303][962]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.27.12:305][962]LogWorld: Bringing World /Game/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 60) at 2018.01.27-16.27.12
+[2018.01.28-00.27.12:305][962]LogWorld: Bringing up level for play took: 0.001531
+[2018.01.28-00.27.12:306][962]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.28-00.27.12:306][962]LogLoad: Took 0.098061 seconds to LoadMap(/Game/Main_Map)
+[2018.01.28-00.27.21:437][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.27.21:497][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.27.23:812][492]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.27.23:836][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.27.23:837][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.27.23:837][492]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:27:23 AM)
+[2018.01.28-00.27.23:837][492]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.27.23:845][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007630s)
+[2018.01.28-00.27.23:845][492]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.27.23:846][492]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.01.28-00.27.23:846][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.008962s)
+[2018.01.28-00.27.23:889][492]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.27.23:953][492]LogInit: FAudioDevice initialized.
+[2018.01.28-00.27.24:057][492]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.27.24:063][492]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.27.24
+[2018.01.28-00.27.24:065][492]LogWorld: Bringing up level for play took: 0.006535
+[2018.01.28-00.27.24:070][492]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.622
+[2018.01.28-00.27.24:070][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.27.55:610][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.27.55:675][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.30.33:528][630]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.30.35:151][651]LogSavePackage: Save=96.47ms
+[2018.01.28-00.30.35:151][651]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BPC44F791D49237A24E0A3B388B6E79B0D.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.30.35:156][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.30.58:214][462]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.30.59:777][483]LogSavePackage: Save=98.23ms
+[2018.01.28-00.30.59:777][483]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BPA7BA8AD54C37BCA07F67679093306D2A.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.30.59:782][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.31.02:449][599]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.31.02:473][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.31.02:474][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.31.02:474][599]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:31:02 AM)
+[2018.01.28-00.31.02:474][599]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.31.02:480][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006342s)
+[2018.01.28-00.31.02:481][599]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.31.02:481][599]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2018.01.28-00.31.02:482][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.007858s)
+[2018.01.28-00.31.02:525][599]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.31.02:581][599]LogInit: FAudioDevice initialized.
+[2018.01.28-00.31.02:694][599]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.31.02:700][599]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.31.02
+[2018.01.28-00.31.02:702][599]LogWorld: Bringing up level for play took: 0.006570
+[2018.01.28-00.31.02:707][599]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.015
+[2018.01.28-00.31.02:707][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.31.25:338][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.31.25:402][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.31.42:027][140]LogSavePackage: Save=103.21ms
+[2018.01.28-00.31.42:027][140]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP4C9C5073452BB447E4AA59BA067B689D.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.31.42:032][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.31.44:596][233]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.31.47:573][336]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.31.47:597][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.31.47:597][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.31.47:597][336]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:31:47 AM)
+[2018.01.28-00.31.47:597][336]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.31.47:603][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006514s)
+[2018.01.28-00.31.47:604][336]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.31.47:605][336]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2018.01.28-00.31.47:605][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.007938s)
+[2018.01.28-00.31.47:649][336]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.31.47:706][336]LogInit: FAudioDevice initialized.
+[2018.01.28-00.31.47:818][336]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.31.47:824][336]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.31.47
+[2018.01.28-00.31.47:825][336]LogWorld: Bringing up level for play took: 0.005945
+[2018.01.28-00.31.47:830][336]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 1.138
+[2018.01.28-00.31.47:831][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.32.04:974][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.32.05:038][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.32.08:706][239]LogSavePackage: Save=245.59ms
+[2018.01.28-00.32.08:707][239]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground2C5607D6467EE32FCF30178C553BEDBE.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.28-00.32.08:711][239]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.32.21:325][899]LogSavePackage: Save=249.94ms
+[2018.01.28-00.32.21:325][899]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlaygroundA3FE2D044B0AA772D0B89CAFFDAFC1BB.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.28-00.32.21:329][899]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.32.22:237][924]LogSavePackage: Save=269.43ms
+[2018.01.28-00.32.22:237][924]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlaygroundC8D2972E47F09DCB66F1CE99C5E93CB6.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.28-00.32.22:243][924]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.32.23:869][  5]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.32.23:894][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.32.23:894][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.32.23:894][  5]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:32:23 AM)
+[2018.01.28-00.32.23:894][  5]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.32.23:900][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005702s)
+[2018.01.28-00.32.23:901][  5]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.32.23:901][  5]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.01.28-00.32.23:901][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.006945s)
+[2018.01.28-00.32.23:946][  5]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.32.24:000][  5]LogInit: FAudioDevice initialized.
+[2018.01.28-00.32.24:112][  5]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.32.24:117][  5]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.32.24
+[2018.01.28-00.32.24:119][  5]LogWorld: Bringing up level for play took: 0.006052
+[2018.01.28-00.32.24:124][  5]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground -0.567
+[2018.01.28-00.32.24:125][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.32.51:668][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.32.51:729][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.33.43:446][936]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.33.59:149][404]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.34.00:507][419]LogSavePackage: Save=101.78ms
+[2018.01.28-00.34.00:507][419]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP8F32D37C4B2255F96C0673B3C1BFF369.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.34.00:511][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.34.03:027][523]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.34.03:055][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.34.03:055][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.34.03:056][523]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:34:03 AM)
+[2018.01.28-00.34.03:056][523]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.34.03:063][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007419s)
+[2018.01.28-00.34.03:064][523]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.34.03:064][523]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2018.01.28-00.34.03:064][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.008520s)
+[2018.01.28-00.34.03:105][523]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.34.03:164][523]LogInit: FAudioDevice initialized.
+[2018.01.28-00.34.03:271][523]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.34.03:276][523]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.34.03
+[2018.01.28-00.34.03:277][523]LogWorld: Bringing up level for play took: 0.005634
+[2018.01.28-00.34.03:282][523]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.591
+[2018.01.28-00.34.03:283][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.34.41:127][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.34.41:190][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.34.43:760][251]LogSavePackage: Save=247.74ms
+[2018.01.28-00.34.43:760][251]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlaygroundC3705550402C04CBE4037BB966EADD58.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.28-00.34.43:765][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.35.38:059][110]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.35.39:693][133]LogSavePackage: Save=102.43ms
+[2018.01.28-00.35.39:693][133]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP8D249DDF4775B8AAC4A41F937DF1FBF6.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.35.39:697][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.35.47:586][402]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.35.49:031][421]LogSavePackage: Save=98.51ms
+[2018.01.28-00.35.49:031][421]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP05F9C3BD40DD7CFF21A8008BCE669B61.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.35.49:036][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.35.51:182][520]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-00.35.51:217][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.35.51:217][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.35.51:217][520]PIE: New page: PIE session: AIPlayground (Jan 27, 2018, 8:35:51 AM)
+[2018.01.28-00.35.51:217][520]LogPlayLevel: Creating play world package: /Game/AI_Playground/UEDPIE_0_AIPlayground
+[2018.01.28-00.35.51:225][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007874s)
+[2018.01.28-00.35.51:226][520]LogAIModule: Creating AISystem for world AIPlayground
+[2018.01.28-00.35.51:226][520]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2018.01.28-00.35.51:226][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Playground/AIPlayground.AIPlayground to /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground (0.009176s)
+[2018.01.28-00.35.51:270][520]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.28-00.35.51:329][520]LogInit: FAudioDevice initialized.
+[2018.01.28-00.35.51:437][520]LogLoad: Game class is 'GameModeBase'
+[2018.01.28-00.35.51:443][520]LogWorld: Bringing World /Game/AI_Playground/UEDPIE_0_AIPlayground.AIPlayground up for play (max tick rate 60) at 2018.01.27-16.35.51
+[2018.01.28-00.35.51:445][520]LogWorld: Bringing up level for play took: 0.007222
+[2018.01.28-00.35.51:450][520]PIE: Play in editor start time for /Game/AI_Playground/UEDPIE_0_AIPlayground 0.758
+[2018.01.28-00.35.51:450][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.37.00:269][436]LogBlueprintUserMessages: [PlayerCharacter_BP_2] Made a flashlight
+[2018.01.28-00.37.15:728][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.37.15:792][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel' has LevelScriptBlueprint '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground' with GeneratedClass '/Game/AI_Playground/AIPlayground.AIPlayground_C' with ClassGeneratedBy '/Game/AI_Playground/AIPlayground.AIPlayground:PersistentLevel.AIPlayground'
+[2018.01.28-00.37.47:050][266]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.01.28-00.37.49:197][304]LogSavePackage: Save=97.25ms
+[2018.01.28-00.37.49:197][304]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP9AE6532B43931D40184731A2062E28C0.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.37.49:202][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.37.57:815][585]LogSavePackage: Save=88.22ms
+[2018.01.28-00.37.57:815][585]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/PlayerCharacter_BP698BE86944FAD6FC37E193B5261BC242.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset'
+[2018.01.28-00.37.57:817][585]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/PlayerCharacter/PlayerCharacter_BP.uasset
+[2018.01.28-00.38.01:645][630]LogSavePackage: Save=265.33ms
+[2018.01.28-00.38.01:645][630]LogSavePackage: Moving '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/AIPlayground2E5B99D6486A9455A00C1BBC9AA58E3B.tmp' to '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap'
+[2018.01.28-00.38.01:649][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/AI_Playground/AIPlayground.umap
+[2018.01.28-00.38.01:691][630]LogFileHelpers: Saving map 'AIPlayground' took 0.436
+[2018.01.28-00.38.02:033][631]Cmd: QUIT_EDITOR
+[2018.01.28-00.38.02:672][631]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-00.38.02:692][631]LogExit: Preparing to exit.
+[2018.01.28-00.38.03:109][631]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/' was aborted.
+[2018.01.28-00.38.03:141][631]LogExit: Editor shut down
+[2018.01.28-00.38.03:152][631]LogExit: Transaction tracking system shut down
+[2018.01.28-00.38.03:350][631]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.28-00.38.03:350][631]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/' was aborted.
+[2018.01.28-00.38.03:350][631]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.28-00.38.03:351][631]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.28-00.38.03:351][631]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.28-00.38.03:351][631]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.28-00.38.03:351][631]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.28-00.38.03:458][631]LogExit: Object subsystem successfully closed.
+[2018.01.28-00.38.03:478][631]LogD3D11RHI: Shutdown
+[2018.01.28-00.38.03:478][631]LogD3D11RHI: CleanupD3DDevice
+[2018.01.28-00.38.03:489][631]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.28-00.38.03:507][631]LogModuleManager: Shutting down and abandoning module ggj2018 (557)
+[2018.01.28-00.38.03:507][631]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.01.28-00.38.03:507][631]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.01.28-00.38.03:507][631]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.01.28-00.38.03:507][631]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.01.28-00.38.03:507][631]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.01.28-00.38.03:507][631]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.01.28-00.38.03:507][631]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.01.28-00.38.03:508][631]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Collections/' was aborted.
+[2018.01.28-00.38.03:508][631]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Content/Developers/Treym/Collections/' was aborted.
+[2018.01.28-00.38.03:508][631]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Saved/Collections/' was aborted.
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.28-00.38.03:508][631]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.28-00.38.03:509][631]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.28-00.38.04:255][631]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.28-00.38.04:256][631]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.28-00.38.04:256][631]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.28-00.38.04:308][631]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.28-00.38.04:308][631]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.28-00.38.04:308][631]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.28-00.38.04:308][631]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.28-00.38.04:308][631]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.28-00.38.04:308][631]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.28-00.38.04:309][631]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.28-00.38.04:309][631]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.28-00.38.04:309][631]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.28-00.38.04:309][631]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.28-00.38.04:319][631]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.01.28-00.38.04:475][631]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.01.28-00.38.04:476][631]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.01.28-00.38.04:477][631]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.01.28-00.38.04:477][631]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.01.28-00.38.04:477][631]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.01.28-00.38.04:478][631]LogDirectoryWatcher: A directory notification for 'C:/Users/Treym/Desktop/GlobalGameJam/GlobalGameJam/ggj2018/Binaries/Win64' was aborted.
+[2018.01.28-00.38.04:479][631]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.28-00.38.04:479][631]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.28-00.38.04:479][631]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.28-00.38.04:479][631]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.28-00.38.04:479][631]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.28-00.38.04:479][631]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.28-00.38.04:479][631]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.28-00.38.04:479][631]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.28-00.38.04:580][631]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.28-00.38.04:680][631]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.28-00.38.04:680][631]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.28-00.38.04:680][631]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.28-00.38.04:680][631]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.28-00.38.04:680][631]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.28-00.38.04:680][631]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.28-00.38.04:681][631]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.28-00.38.04:681][631]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.28-00.38.04:681][631]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.28-00.38.04:681][631]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.28-00.38.04:683][631]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.28-00.38.04:683][631]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.28-00.38.04:683][631]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.28-00.38.04:683][631]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.28-00.38.04:683][631]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.28-00.38.04:684][631]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.28-00.38.04:689][631]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.28-00.38.04:690][631]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.28-00.38.04:690][631]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.28-00.38.04:690][631]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.28-00.38.04:690][631]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.28-00.38.04:692][631]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.28-00.38.04:692][631]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.28-00.38.04:692][631]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.28-00.38.04:692][631]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.28-00.38.04:692][631]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.28-00.38.04:692][631]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.28-00.38.04:692][631]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.28-00.38.04:692][631]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.28-00.38.04:694][631]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.28-00.38.04:694][631]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.28-00.38.04:694][631]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.28-00.38.04:694][631]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.28-00.38.04:694][631]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.28-00.38.04:694][631]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.28-00.38.04:694][631]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.28-00.38.04:694][631]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.28-00.38.04:694][631]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.28-00.38.04:753][631]LogDerivedDataCache: Shutdown
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.28-00.38.04:753][631]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.28-00.38.04:754][631]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.28-00.38.04:754][631]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.28-00.38.04:755][631]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3994BEEA-49B5-3771-BA39-77AAE45DC195%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=bd3320cb45b57486d7a0d2a02f576e0d%7C08ec85b453944d8e86d6651d1fcb8040%7C5b7f909b-f924-4439-b929-2ff472a0c63b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.28-00.38.04:772][631]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.28-00.38.04:773][631]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.28-00.38.04:773][631]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.28-00.38.04:773][631]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.28-00.38.04:773][631]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.28-00.38.04:773][631]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.28-00.38.04:773][631]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.28-00.38.04:773][631]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.28-00.38.04:775][631]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.28-00.38.04:780][631]LogExit: Exiting.
+[2018.01.28-00.38.04:799][631]Log file closed, 01/27/18 16:38:04
