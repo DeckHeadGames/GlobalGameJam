@@ -34,12 +34,16 @@ protected:
 	FVector FaceDirection;
 	FVector MoveDirection;
 	float MoveSpeed;
+	float DefaultMoveSpeed;
 	float TimerFloat;
 	FTimerHandle SlowTimer;
 	FTimerHandle DashTimer;
+	FTimerHandle DashingTimer;
+	float GetMoveSpeed();
 	void ReturnSpeed();
 	bool CanDash;
 	void StartDash();
+	void EndDash();
 	void RefreshDash();
 	void RayCast();
 	void CheckFlashlight(float DeltaTime);
@@ -53,7 +57,19 @@ public:
 		bool CanIBeUsed;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		bool IsDash;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		bool Hit;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		float DashCooldown;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float DashSpeed;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float DashDuration;
 
 	UFUNCTION(BlueprintCallable, Category = "Movement")
 		void SlowCharacter(float time);
