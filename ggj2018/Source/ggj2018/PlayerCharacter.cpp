@@ -154,7 +154,6 @@ void APlayerCharacter::RayCast() {
 				}
 			}
 		}
-		DrawDebugLine(GetWorld(), StartTrace, EndTrace, FColor::Yellow, false);
 		
 	}
 }
@@ -164,7 +163,6 @@ void APlayerCharacter::CheckFlashlight(float DeltaTime) {
 	if (TimerFloat >= 0.25f) {
 		TimerFloat = 0.0f;
 		if (CanIBeUsed) {
-			GEngine->AddOnScreenDebugMessage(-1, 5.0, FColor::Green, TEXT("Can't be used"), true);
 			CanIBeUsed = false;
 		}
 	}
