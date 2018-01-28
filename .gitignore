@@ -9,6 +9,7 @@
 *.lo
 *.o
 *.obj
+*.obj.response
 
 # Precompiled Headers
 *.gch
@@ -18,9 +19,11 @@
 *.so
 *.dylib
 *.dll
+*.dll.response
 
 # Fortran module files
 *.mod
+.modules
 
 # Compiled Static libraries
 *.lai
@@ -43,6 +46,8 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+*.exp
+*.ini
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -73,3 +78,12 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.ini
+ggj2018/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.response
+*.log
+*.ubt
+*.buildmutex
+*.pdb
+*.ini
+*.modules
