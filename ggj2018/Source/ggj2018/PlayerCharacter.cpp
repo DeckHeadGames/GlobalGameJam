@@ -9,8 +9,6 @@ const FName APlayerCharacter::MoveRightBinding("MoveRight");
 const FName APlayerCharacter::FaceForwardBinding("FaceForward");
 const FName APlayerCharacter::FaceRightBinding("FaceRight");
 
-
-
 // Sets default values
 APlayerCharacter::APlayerCharacter()
 {
@@ -26,8 +24,12 @@ void APlayerCharacter::BeginPlay()
 	MoveSpeed = 1000.0f;
 	DashCooldown = 4.0f;
 	TimerFloat = 0.0f;
+
 	CanDash = true;
 	CanIBeUsed = false;
+	IsDash = false;
+	DefaultMoveSpeed = GetCharacterMovement()->MaxWalkSpeed;
+
 	FaceDirection = GetActorForwardVector();
 	
 }
@@ -87,22 +89,42 @@ FVector APlayerCharacter::GetFaceDirection() {
 	return FaceDirection;
 }
 
+float APlayerCharacter::GetMoveSpeed() {
+
+	if (IsDash) {
+		return 100000.0f;
+	}
+	else {
+		return MoveSpeed;
+	}
+
+}
+
 
 void APlayerCharacter::MovePlayerCharacter(FVector Movement, FVector FireDirection, float DeltaTime) {
 
 
 
-	AddMovementInput(Movement, MoveSpeed * DeltaTime);
+	AddMovementInput(Movement, GetMoveSpeed() * DeltaTime);
 	// If non-zero size, move this actor
 
 	FRotator direction = FireDirection.Rotation();
-	SetActorRotation(direction);
+	if (HasFlashlight) 
+	{
+		SetActorRotation(direction);
+	}
+	else 
+	{
+		SetActorRotation(Movement.Rotation());
+	}
 }
 
 void APlayerCharacter::SlowCharacter(float time) {
-	MoveSpeed = 10.0f;
-	GetWorld()->GetTimerManager().SetTimer(SlowTimer, this, &APlayerCharacter::ReturnSpeed, time, false);
-
+	if (!IsDash) 
+	{
+		MoveSpeed = 10.0f;
+		GetWorld()->GetTimerManager().SetTimer(SlowTimer, this, &APlayerCharacter::ReturnSpeed, time, false);
+	}
 }
 
 void APlayerCharacter::ReturnSpeed() {
@@ -122,10 +144,19 @@ void APlayerCharacter::StartDash() {
 		else {
 			modifier = MoveSpeed;
 		}
-		LaunchCharacter(4.0f * modifier * DeltaDist, true, true);
+		//LaunchCharacter(4.0f * modifier * DeltaDist, true, true); //hard to find out duration of dash
+		IsDash = true;
+		GetCharacterMovement()->MaxWalkSpeed = DashSpeed;
 		CanDash = false;
 		GetWorld()->GetTimerManager().SetTimer(DashTimer, this, &APlayerCharacter::RefreshDash, DashCooldown, false);
+		GetWorld()->GetTimerManager().SetTimer(DashingTimer, this, &APlayerCharacter::EndDash, DashDuration, false);
 	}
+}
+
+void APlayerCharacter::EndDash() {
+	GetCharacterMovement()->MaxWalkSpeed = DefaultMoveSpeed;
+	IsDash = false;
+	GetWorld()->GetTimerManager().ClearTimer(DashingTimer);
 }
 
 void APlayerCharacter::RefreshDash() {
