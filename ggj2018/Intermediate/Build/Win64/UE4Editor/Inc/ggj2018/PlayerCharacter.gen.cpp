@@ -166,12 +166,42 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 			};
 #endif
 #if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DashDuration_MetaData[] = {
+				{ "Category", "PlayerCharacter" },
+				{ "ModuleRelativePath", "PlayerCharacter.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_DashDuration = { UE4CodeGen_Private::EPropertyClass::Float, "DashDuration", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, STRUCT_OFFSET(APlayerCharacter, DashDuration), METADATA_PARAMS(NewProp_DashDuration_MetaData, ARRAY_COUNT(NewProp_DashDuration_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DashSpeed_MetaData[] = {
+				{ "Category", "PlayerCharacter" },
+				{ "ModuleRelativePath", "PlayerCharacter.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_DashSpeed = { UE4CodeGen_Private::EPropertyClass::Float, "DashSpeed", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, STRUCT_OFFSET(APlayerCharacter, DashSpeed), METADATA_PARAMS(NewProp_DashSpeed_MetaData, ARRAY_COUNT(NewProp_DashSpeed_MetaData)) };
+#if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DashCooldown_MetaData[] = {
 				{ "Category", "PlayerCharacter" },
 				{ "ModuleRelativePath", "PlayerCharacter.h" },
 			};
 #endif
 			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_DashCooldown = { UE4CodeGen_Private::EPropertyClass::Float, "DashCooldown", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, STRUCT_OFFSET(APlayerCharacter, DashCooldown), METADATA_PARAMS(NewProp_DashCooldown_MetaData, ARRAY_COUNT(NewProp_DashCooldown_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Hit_MetaData[] = {
+				{ "Category", "PlayerCharacter" },
+				{ "ModuleRelativePath", "PlayerCharacter.h" },
+			};
+#endif
+			auto NewProp_Hit_SetBit = [](void* Obj){ ((APlayerCharacter*)Obj)->Hit = 1; };
+			static const UE4CodeGen_Private::FBoolPropertyParams NewProp_Hit = { UE4CodeGen_Private::EPropertyClass::Bool, "Hit", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(APlayerCharacter), &UE4CodeGen_Private::TBoolSetBitWrapper<decltype(NewProp_Hit_SetBit)>::SetBit, METADATA_PARAMS(NewProp_Hit_MetaData, ARRAY_COUNT(NewProp_Hit_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_IsDash_MetaData[] = {
+				{ "Category", "PlayerCharacter" },
+				{ "ModuleRelativePath", "PlayerCharacter.h" },
+			};
+#endif
+			auto NewProp_IsDash_SetBit = [](void* Obj){ ((APlayerCharacter*)Obj)->IsDash = 1; };
+			static const UE4CodeGen_Private::FBoolPropertyParams NewProp_IsDash = { UE4CodeGen_Private::EPropertyClass::Bool, "IsDash", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(APlayerCharacter), &UE4CodeGen_Private::TBoolSetBitWrapper<decltype(NewProp_IsDash_SetBit)>::SetBit, METADATA_PARAMS(NewProp_IsDash_MetaData, ARRAY_COUNT(NewProp_IsDash_MetaData)) };
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_CanIBeUsed_MetaData[] = {
 				{ "Category", "PlayerCharacter" },
@@ -189,7 +219,11 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 			auto NewProp_HasFlashlight_SetBit = [](void* Obj){ ((APlayerCharacter*)Obj)->HasFlashlight = 1; };
 			static const UE4CodeGen_Private::FBoolPropertyParams NewProp_HasFlashlight = { UE4CodeGen_Private::EPropertyClass::Bool, "HasFlashlight", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(APlayerCharacter), &UE4CodeGen_Private::TBoolSetBitWrapper<decltype(NewProp_HasFlashlight_SetBit)>::SetBit, METADATA_PARAMS(NewProp_HasFlashlight_MetaData, ARRAY_COUNT(NewProp_HasFlashlight_MetaData)) };
 			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_DashDuration,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_DashSpeed,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_DashCooldown,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_Hit,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_IsDash,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_CanIBeUsed,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_HasFlashlight,
 			};
@@ -211,7 +245,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APlayerCharacter, 3955211035);
+	IMPLEMENT_CLASS(APlayerCharacter, 4283513776);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_APlayerCharacter(Z_Construct_UClass_APlayerCharacter, &APlayerCharacter::StaticClass, TEXT("/Script/ggj2018"), TEXT("APlayerCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(APlayerCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

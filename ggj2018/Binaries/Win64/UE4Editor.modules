@@ -2,10 +2,6 @@
 	"BuildId": "3709383",
 	"Modules": 
 	{
-<<<<<<< HEAD
-		"ggj2018": "UE4Editor-ggj2018-4473.dll"
-=======
 		"ggj2018": "UE4Editor-ggj2018.dll"
->>>>>>> Jerome
 	}
 }
